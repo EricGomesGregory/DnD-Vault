@@ -5,4 +5,4 @@ The only place where most creatures can live, the Brass Station is a massive rin
 
 ***Native Races.***
 The native races of Brass Station are:
-- Fire Genasi
+- [Fire Genasi](Genasi#^acde01)

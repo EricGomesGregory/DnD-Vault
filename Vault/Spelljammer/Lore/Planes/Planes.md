@@ -10,8 +10,13 @@ The following are the planes of the Spelljammer setting, organized by regions:
 	- [[Su]]
 	- [[Torpaq]]
 - #### Sylvan Nebula
-	- A
+	- [[Ghrian]]
+	- [[Dorchang]]
 - #### Arm of Civilization
-	- [[HUMAN_PLANE]]
-	- 
+	- [[Dzvezda]]
+	- [[Stjerne]]
+	- [[Najma]]
+- #### Beast Stars
+	- A
 - 
+- #### Eldritch Beyond

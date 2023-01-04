@@ -9,8 +9,8 @@ Qum is a small desert world that orbits the Torpaq star beyond the asteroid belt
 
 ***Native Races.***
 The native races of Qum are:
-- Earth Genasi
-- Thri-kreen
+- [Earth Genasi](Genasi#^56098e)
+- [[Thri-Kreen]]
 
 
 ## Qaya
