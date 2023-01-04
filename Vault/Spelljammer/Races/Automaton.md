@@ -1,5 +1,3 @@
-## Automaton
-
 
 ### Automaton Traits
 Your Automaton characters have the following traits.
@@ -14,7 +12,7 @@ ___
 Your creature type is Construct.
 ___
 ***Size.***
-Your size is Medium.
+Your size is Small or Medium.
 ___
 ***Speed.***
 You have a walking speed of 30 feet.

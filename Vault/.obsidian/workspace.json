@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff6d6ec41820f006",
+        "id": "32810cab9c50981d",
         "type": "tabs",
         "children": [
           {
-            "id": "592999dc629441f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8e017fab9944a78d",
+            "id": "95e895e7dd9eec6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Lore/Planes/Arm of Civilization/Dzvezda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28620c46e8b92593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelljammer/Lore/Planes/Arm of Civilization/Najma.md",
+                "file": "Spelljammer/Spells/0th Level.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spelljammer/Spells/0th Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spelljammer/Spells/0th Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spelljammer/Spells/0th Level.md"
+              }
             }
           },
           {
@@ -171,17 +155,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "592999dc629441f3",
+  "active": "95e895e7dd9eec6f",
   "lastOpenFiles": [
-    "Spelljammer/Races/Genasi.md",
-    "Spelljammer/Lore/Planes/Elemental Core/Su.md",
-    "Spelljammer/Lore/Planes/Planes.md",
-    "Spelljammer/Lore/Planes/Arm of Civilization/Najma.md",
-    "Spelljammer/Lore/Planes/Arm of Civilization/Dzvezda.md",
-    "Spelljammer/Lore/Planes/Arm of Civilization/Stjerne.md",
-    "Spelljammer/Lore/Planes/Sylvan Nebula/Dorchang.md",
-    "Spelljammer/Lore/Planes/Sylvan Nebula/Ghrian.md",
-    "Spelljammer/Races/Elf.md",
-    "Spelljammer/Races/Thri-Kreen.md"
+    "Spelljammer/Races/Viperion.md",
+    "Spelljammer/Races/Triton.md",
+    "Spelljammer/Races/Tiefling.md",
+    "Spelljammer/Races/Thri-Kreen.md",
+    "Spelljammer/Races/Orc.md",
+    "Spelljammer/Races/Oozeon.md",
+    "Spelljammer/Races/Myconid.md",
+    "Spelljammer/Races/Lizardfolk.md",
+    "Spelljammer/Races/Illithid.md",
+    "Spelljammer/Races/Human.md"
   ]
 }

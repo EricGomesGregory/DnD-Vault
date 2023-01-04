@@ -1,5 +1,3 @@
-## Human
-
 
 ### Human Traits
 Your Human characters have the following traits.

@@ -1,5 +1,3 @@
-## Tiefling
-
 
 ### Tiefling Traits
 Your Tiefling characters have the following traits.

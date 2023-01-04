@@ -1,5 +1,3 @@
-## Dwarf
-
 
 ### Dwarf Traits
 Your Dwarf characters have the following traits.

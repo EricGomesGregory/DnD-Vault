@@ -1,5 +1,3 @@
-## Kobold
-
 
 ### Kobold Traits
 Your Kobold characters have the following traits.

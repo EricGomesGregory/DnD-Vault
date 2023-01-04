@@ -6,7 +6,9 @@ Sar'ha is a small arid and mountainous world that resides in a close orbit to Na
 ***Native Races.***
 The native races of Sar'ha are:
 - Red Dragonborn
+- Red Kobolds
 - Gold Dragonborn
+- Gold Kobolds
 
 
 ## Alzuhra
@@ -15,7 +17,9 @@ Alzuhra is a small rocky world covered in greenish clouds... Most inhabitants li
 ***Native Races.***
 The native races of Alzuhra are:
 - Black Dragonborn
+- Black Kobolds
 - Copper Dragonborn
+- Copper Kobolds
 
 
 ## Wahah
@@ -24,6 +28,7 @@ Wahah, also known as the oasis of Najma, is a small rocky world covered in fores
 ***Native Races.***
 The native races of Wahah are:
 - All Dragonborn
+- All Kobolds
 
 
 ## D_STORM_PLANET_NAME
@@ -32,7 +37,9 @@ D_STORM_PLANET_NAME is a small rocky planet that is almost completely covered by
 ***Native Races.***
 The native races of D_STORM_PLANET_NAME are:
 - Blue Dragonborn
+- Blue Kobolds
 - Bronze Dragonborn
+- Bronze Kobolds
 
 
 ## Mujam
@@ -41,4 +48,6 @@ DESCRIPTION GLACILA_WORLD.
 ***Native Races.***
 The native races of Mujam are:
 - Silver Dragonborn
+- Silver Kobolds
 - White Dragonborn
+- White Kobolds

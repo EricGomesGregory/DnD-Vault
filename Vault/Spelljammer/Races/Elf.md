@@ -1,5 +1,3 @@
-## Elf
-
 
 ### Elf Traits
 Your Elf characters have the following traits.

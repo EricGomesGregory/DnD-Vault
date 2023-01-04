@@ -1,5 +1,3 @@
-## Orc
-
 
 ### Orc Traits
 Your Orc characters have the following traits.

@@ -1,5 +1,3 @@
-## Lizardfolk
-
 
 ### Lizardfolk Traits
 Your Lizardfolk characters have the following traits.

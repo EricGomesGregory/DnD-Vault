@@ -1,5 +1,3 @@
-## Dragonborn
-
 
 ### Dragonborn Traits
 Your Dragonborn characters have the following traits.

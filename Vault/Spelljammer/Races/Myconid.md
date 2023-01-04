@@ -1,5 +1,3 @@
-## Myconid
-
 
 ### Myconid Traits
 Your Myconid characters have the following traits.

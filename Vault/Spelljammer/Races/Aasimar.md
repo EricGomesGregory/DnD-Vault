@@ -1,5 +1,3 @@
-## Aasimar
-
 
 ### Aasimar Traits
 Your Aasimar characters have the following traits.

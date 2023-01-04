@@ -1,5 +1,3 @@
-## Viperion
-
 
 ### Viperion Traits
 Your Viperion characters have the following traits.

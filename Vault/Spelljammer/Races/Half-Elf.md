@@ -1,5 +1,3 @@
-## Half-Elf
-
 
 ### Half-Elf Traits
 Your Half-Elf characters have the following traits.
