@@ -12,7 +12,7 @@ The native races of Sar'ha are:
 
 
 ## Alzuhra
-Alzuhra is a small rocky world covered in greenish clouds... Most inhabitants live in cave cities to avoid the constant acid rain.
+Alzuhra is a small rocky world covered in greenish clouds, poisonous swamps, and Most inhabitants live in cave cities to avoid the constant acid rain.
 
 ***Native Races.***
 The native races of Alzuhra are:

@@ -1,14 +1,41 @@
 Dorchang is a small sickening purple star that is orbited by two asteroid rings and a large gas giant...
 
-#### DARK_ASTEROID_FIELD_1_NAME
+# Garbhlach Belt
+The Garbhlach belt is a ring 
 
-
-#### DARK_GAS_GIANT_NAME
-DARK_GAS_GIANT_NAME is a massive dark grey clouds. Orbiting the gas giant are nine moons of varying sizes and shapes that have been conquered by the fleeing Drow elves.
+# Speur
+Speur is a massive dark grey clouds. Orbiting the gas giant are nine moons of varying sizes and shapes that have been conquered by the fleeing Drow elves.
 
 ***Native Races.***
-The native races of the moons of DARK_GAS_GIANT_NAME are:
+The native races of the moons of Speur are:
 - [Drow elves](Elf#^bced8e)
+
+## Speur Beatha
+Speur Beatha is the largest of the moons of Speur and the defacto home world of the drow.
+
+## Speur NAME_2
+DESCRIPTION.
+
+## Speur NAME_3
+DESCRIPTION.
+
+## Speur NAME_4
+DESCRIPTION.
+
+## Speur NAME_5
+DESCRIPTION.
+
+### Speur NAME_6
+DESCRIPTION.
+
+### Speur NAME_7
+DESCRIPTION.
+
+### Speur NAME_8
+DESCRIPTION.
+
+### Speur NAME_9
+DESCRIPTION.
 
 
 #### DARK_ASTEROID_FIELD_2_NAME

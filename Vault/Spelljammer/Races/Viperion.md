@@ -66,5 +66,7 @@ FLUFF.
 ***Ability Score Increase.***
 Your Wisdom score increases by 1.
 
-***Venomous Bite.***
-You have a pair of fangs that have a powerful venom. You can use an action to attempt to bite a creature that is grappled by your tail. On a hit the target takes 0d6 poison damage...
+***Poison Spray.***
+You have a pair of fangs that have a powerful venom. You can use an action to launch your venom in a 15-foot cone. Each creature in the area must make a Constitution saving throw taking 0d0 poison damage on a failed save or half as much on a successful one.
+
+The DC for this feature is equal to 8 + your Constitution modifier + your proficiency bonus.

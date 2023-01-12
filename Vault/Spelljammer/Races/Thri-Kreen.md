@@ -25,7 +25,7 @@ Accustomed to caves, tunnels and the night sky, you have superior vision in dark
 
 ***Secondary Arms.***
 You have two slightly smaller secondary arms below your primary pair of arms. The secondary arms function like your primary arms, with the following exceptions:
-- You can use a secondary arm to wield a weapon that has the light property, but you can’t use a secondary arm to wield other kinds of weapons.
+- You can use a secondary to wield a weapon that has the light property, but you can’t use a secondary arm to wield other kinds of weapons.
 - You can’t wield a shield with a secondary arm.
 
 ***Telepathy.***

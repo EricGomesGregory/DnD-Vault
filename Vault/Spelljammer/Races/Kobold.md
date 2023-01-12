@@ -3,7 +3,7 @@
 Your Kobold characters have the following traits.
 
 ***Ability Score Increase.***
-Your Dexterity score increases by 2, and your Charisma score increases by 1.
+Your Dexterity score increases by 2, and your Intelligence score increases by 1.
 
 ***Age.***
 
@@ -39,6 +39,9 @@ You are distantly related to a particular kind of dragon. Choose a type of drago
 
 ***Draconic Bite.***
 Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d4 + your Strength modifier ancestry damage, instead of the bludgeoning damage normal for an unarmed strike.
+
+***Cunning Trap.***
+FLUFF. During a short or long rest you can spend 1 hour to craft a simple trap...
 
 ***Languages.***
 You can speak, read, and write Draconic.

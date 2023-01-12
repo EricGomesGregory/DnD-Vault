@@ -12,6 +12,7 @@ The following are the planes of the Spelljammer setting, organized by regions:
 - #### Sylvan Nebula
 	- [[Ghrian]]
 	- [[Dorchang]]
+	- [[Geal'bàn]]
 - #### Arm of Civilization
 	- [[Dzvezda]]
 	- [[Stjerne]]
