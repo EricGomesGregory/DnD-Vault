@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Lore/Planes/Arm of Civilization/Najma.md",
+                "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spelljammer/Lore/Planes/Arm of Civilization/Najma.md",
+            "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spelljammer/Lore/Planes/Arm of Civilization/Najma.md",
+            "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,24 +114,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spelljammer/Lore/Planes/Arm of Civilization/Najma.md"
+            "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "eed5ad2ab5b0a69d",
+  "active": "ff852e62ccc92e6c",
   "lastOpenFiles": [
+    "Spelljammer/Lore/Planes/ArmCivilization/Dzvezda.md",
+    "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Spelljammer/Lore/Planes/Planes.md",
-    "Spelljammer/Lore/Planes/Arm of Civilization/Stjerne.md",
-    "Spelljammer/Lore/Planes/Arm of Civilization/Dzvezda.md",
+    "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
     "Spelljammer/Races/Genasi.md",
-    "Spelljammer/Lore/Planes/Elemental Core/Yangin.md",
-    "Spelljammer/Lore/Planes/Sylvan Nebula/Dorchang.md",
-    "Spelljammer/Lore/Planes/Sylvan Nebula/Geal'bàn.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
+    "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
+    "Spelljammer/Lore/Planes/SylvanNebula/Geal'bàn.md",
     "CASTLE_DUNGEON.md",
-    "Spelljammer/Races/Thri-Kreen.md",
-    "Spelljammer/Races/Viperion.md"
+    "Spelljammer/Races/Thri-Kreen.md"
   ]
 }
