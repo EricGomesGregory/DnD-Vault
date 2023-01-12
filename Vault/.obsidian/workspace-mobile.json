@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "564eb5d81e14ae6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe833b709134262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed5ad2ab5b0a69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spelljammer/Lore/Planes/Arm of Civilization/Stjerne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "122bdf1e006fe453",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ff852e62ccc92e6c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cf88c7aef45ca51f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2d05fed4e5398d7c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "cf8546e4288b684f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dbdeab0364fbba3c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aefeac61b0b8f633",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Spelljammer/Lore/Planes/Arm of Civilization/Stjerne.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4d5e63fe00d23114",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Spelljammer/Lore/Planes/Arm of Civilization/Stjerne.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dfebea99b81d014a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Spelljammer/Lore/Planes/Arm of Civilization/Stjerne.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "eed5ad2ab5b0a69d",
+  "lastOpenFiles": [
+    "Spelljammer/Lore/Planes/Arm of Civilization/Dzvezda.md",
+    "Spelljammer/Races/Genasi.md",
+    "Spelljammer/Lore/Planes/Elemental Core/Yangin.md",
+    "Spelljammer/Lore/Planes/Planes.md",
+    "Spelljammer/Lore/Planes/Sylvan Nebula/Dorchang.md",
+    "Spelljammer/Lore/Planes/Sylvan Nebula/Geal'bàn.md",
+    "CASTLE_DUNGEON.md",
+    "Spelljammer/Races/Thri-Kreen.md",
+    "Spelljammer/Races/Viperion.md",
+    "Spelljammer/Races/Kobold.md"
+  ]
+}
