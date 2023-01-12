@@ -1,29 +1,30 @@
 
 ### Orc Traits
 Your Orc characters have the following traits.
-___
+
 ***Ability Score Increase.***
 Your Strength score increases by 2, and your Constitution score increases by 1.
-___
+
 ***Age.***
 
-___
+
 ***Type.***
 Your creature type is Humanoid.
-___
+
 ***Size.***
 Your size is Medium.
-___
+
 ***Speed.***
 You have a walking speed of 30 feet.
-___
-***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-___
+
+***Powerful Build.***
+You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
 ***Relentless Endurance.***
 When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
-___
+
 ***Savage Attacks.***
 When you score a critical hit with a weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
-___
+
 ***Languages.***
-You can speak, read, and write Common and Orcish.
+You can speak, read, and write Orcish.

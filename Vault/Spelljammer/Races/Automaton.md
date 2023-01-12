@@ -1,34 +1,34 @@
 
 ### Automaton Traits
 Your Automaton characters have the following traits.
-___
+
 ***Ability Score Increase.***
 Your Constitution score increases by 2, and a different ability score increases by 1
-___
+
 ***Age.***
 
-___
+
 ***Type.***
 Your creature type is Construct.
-___
+
 ***Size.***
 Your size is Small or Medium.
-___
+
 ***Speed.***
 You have a walking speed of 30 feet.
-___
+
 ***Constructed Resilience.***
 You have the following benefits:
 - You are immune to poison and disease.
 - You don’t need to eat, drink, or breathe.
 - You don't need to sleep, and magic can't put you to sleep.
-___
+
 ***Sentry's Rest.***
 When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
-___
+
 ***Specialized Design.***
 You were designed with a specific purpose in mind, choose one automaton feat from the Automaton Feats.
-___
+
 ***Languages.***
 You can speak, read, and write Common and one extra language.
 
