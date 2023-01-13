@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Vehicles/AstralShips/_Overview.md",
-                "mode": "preview",
+                "file": "Spelljammer/Races/Aarakocra.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spelljammer/Vehicles/AstralShips/_Overview.md",
+            "file": "Spelljammer/Races/Aarakocra.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spelljammer/Vehicles/AstralShips/_Overview.md",
+            "file": "Spelljammer/Races/Aarakocra.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,24 +114,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spelljammer/Vehicles/AstralShips/_Overview.md"
+            "file": "Spelljammer/Races/Aarakocra.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "ff852e62ccc92e6c",
+  "active": "eed5ad2ab5b0a69d",
   "lastOpenFiles": [
-    "Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+    "Spelljammer/Races/Tiefling.md",
+    "Spelljammer/Races/Aarakocra.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Hava.md",
     "Spelljammer/Spells/0th.md",
-    "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
-    "Spelljammer/Lore/Planes/ArmCivilization/Dzvezda.md",
-    "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
-    "Spelljammer/Lore/Planes/Planes.md",
-    "Spelljammer/Races/Genasi.md",
-    "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
-    "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
-    "Spelljammer/Lore/Planes/SylvanNebula/Geal'bàn.md"
+    "Spelljammer/Races/Elf.md",
+    "Spelljammer/Races/Goblin.md",
+    "Spelljammer/Lore/Languages.md",
+    "Spelljammer/Vehicles/AstralShips/_Overview.md",
+    "Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+    "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md"
   ]
 }

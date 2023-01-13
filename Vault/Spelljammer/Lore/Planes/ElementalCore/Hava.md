@@ -1,26 +1,32 @@
 The Hava is a small radiant star surrounded by gargantuan gas clouds, asteroids, and three gas giants.
 
 
-## GAS_CLOUD
-DESCRIPTION.
+## Qizil Pillars
+The Quizil pillars are massive golden brown pillars of primordial dust that orbit around Hava.
 
 
-## GAS_GIANT_1_NAME
-DESCRIPTION.
-
-***Native Races.***
-The native races of GAS_GIANT_1_NAME are:
-
-
-## GAS_GIANT_2_NAME
-DESCRIPTION.
+## Typhan
+Typhan is a large greyish blue world that is in constant storm and turbulence...
 
 ***Native Races.***
-The native races of GAS_GIANT_2_NAME are:
+The native races of Typhan are:
+- Storm Aarakocra
 
+## Madyan
+Madyan is a the smallest of the three worlds of Hava, the world is  covered in thick white clouds that  hide the dephts of the planet.
 
-## GAS_GIANT_3_NAME
-DESCRIPTION.
+Madyan's atmosphere is so dense that chunks of rock can float on top of the clouds, creating islands in the white sea.
 
 ***Native Races.***
-The native races of GAS_GIANT_3_NAME are:
+The native races of Madyan are:
+- Air Genasi
+- Cloud Aarakocra
+- 
+
+## Qan
+Qan is a gargantuan gas giant, coverd in red and brown clouds and storms that last for eons.
+
+Qan has no landmass to be inhabited buts its three moons are habitable.
+
+***Native Races.***
+The native races of Qan's moons are:
