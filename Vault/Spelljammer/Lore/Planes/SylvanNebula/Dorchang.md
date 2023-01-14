@@ -1,7 +1,11 @@
 Dorchang is a small sickening purple star that is orbited by two asteroid rings and a large gas giant...
 
+___
+
 # Garbhlach Belt
-The Garbhlach belt is a ring 
+The Garbhlach belt is a ring of jagged obsidian like asteroids that surround the Dorchang star.
+
+___
 
 # Speur
 Speur is a massive dark grey clouds. Orbiting the gas giant are nine moons of varying sizes and shapes that have been conquered by the fleeing Drow elves.
@@ -10,37 +14,40 @@ Speur is a massive dark grey clouds. Orbiting the gas giant are nine moons of va
 The native races of the moons of Speur are:
 - [Drow elves](Elf#^bced8e)
 
-## Speur Beatha
-Speur Beatha is the largest of the moons of Speur and the defacto home world of the drow.
+## Beatha
+Beatha is the largest of the moons of Speur and the defacto home world of the drow.
 
-## Speur NAME_2
-DESCRIPTION.
+## Dearg
+Dearg is a medium-sized red rocky world devoid of water.
 
-## Speur NAME_3
-DESCRIPTION.
+## Kristyl
+Kristy is a massive glass like moon that is covered in crystal mountains. 
 
-## Speur NAME_4
-DESCRIPTION.
+## Gàradh
+Gàradh is a tiny but heavily forested moon of Speur, with large dark turquoise forests.
 
-## Speur NAME_5
-DESCRIPTION.
+## Snàithle
+Snàithle is a tiny deep grey moon covered in golden and silver streaks that form web like structures.
 
-### Speur NAME_6
-DESCRIPTION.
+## Sgàrlaid
+Sgàrlaid is a deep redish orange moon with beige streaks...
 
-### Speur NAME_7
-DESCRIPTION.
+## Sgread
+Sgread is a milky white moon that has shattered and cracked...
 
-### Speur NAME_8
-DESCRIPTION.
+## Buidhe
+Buidhe is a tiny greenish yellow moon full of craters.
 
-### Speur NAME_9
-DESCRIPTION.
+## Ubhal
+Ubhal is a oval shaped moon that orbits Speur at the farthest distance to the gas giant.
 
+___
 
-#### DARK_ASTEROID_FIELD_2_NAME
-DESCRIPTION.
+# Svovel Ring
+The Svovel ring is a massive ring of asteroids, some incandescent, that surround the Dorchang star.
+
+In the caves and burrows of the asteroids Duergar have built cities and settlements after their exile.
 
 ***Native Races.***
-The native races of DARK_ASTEROID_FIELD_2_NAME are:
+The native races of Svovel ring are:
 - [Dueregar dwarves](Dwarf#^0f43c3)

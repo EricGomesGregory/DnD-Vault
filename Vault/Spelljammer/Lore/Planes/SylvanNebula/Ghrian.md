@@ -1,16 +1,26 @@
 The Ghrian is a average sun orbited by n planets
 
-## Mearcair
-Mearcair is MERCURY.
+___
 
+## Mearcair
+Mearcair is a small deep yellow world covered in craters.
+
+The Aard have created stellar keeps...
+
+___
 
 ## Stuaghach
-The Stuaghach is a earth-like planet...
+The Stuaghach is a medium-sized world covered in massive oceans and forested islands and small continents.
+
+The various landmasses of Stuagthach have mountains covered in crystal growths.
+
+Stuaghach once had a moon but it was replaced by a stellar keep known as the Crescent Keep.
 
 ***Native Races.***
 The native races of Stuaghach are:
 - [Aard elves](Elf#^72d444)
 
+___
 
 ## Geansaidh
 The Geansaidh is a hot jungle planet...
@@ -19,7 +29,9 @@ The Geansaidh is a hot jungle planet...
 The native races of Geansaidh are:
 - [Nadur elves](Elf#^7a543b)
 
-
+___
 
 ## Faasail
 The Faasail is a barren rocky world covered in cracks that still glow with residual arcane energy.
+
+Once Faasail once was a habitable world with a different name that was lost to history.
