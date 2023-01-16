@@ -1,3 +1,10 @@
+---
+reference_language: Azerbaijan
+tags:
+- Plane
+- ElementalCore
+---
+
 The Hava is a small radiant star surrounded by gargantuan gas clouds, asteroids, and three gas giants.
 
 ___

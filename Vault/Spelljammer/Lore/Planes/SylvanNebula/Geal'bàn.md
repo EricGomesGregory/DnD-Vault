@@ -1,3 +1,9 @@
+---
+reference_language: Gaelic 
+tags:
+- Plane
+- SylvanNebula
+---
 Geal'bàn is a huge pale star orbited by dense clouds that dim the strength of the star, a single miniscule white planet, and a ring of asteroids.
 
 ## Eagallach

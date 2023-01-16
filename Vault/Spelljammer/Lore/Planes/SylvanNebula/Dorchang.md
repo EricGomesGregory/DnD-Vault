@@ -1,3 +1,9 @@
+---
+reference_language: Gaelic
+tags:
+- Plane
+- SylvanNebula
+---
 Dorchang is a small sickening purple star that is orbited by two asteroid rings and a large gas giant orbited by nine moons.
 
 ___

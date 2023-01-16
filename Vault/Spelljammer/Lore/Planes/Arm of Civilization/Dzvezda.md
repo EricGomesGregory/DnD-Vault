@@ -1,0 +1,18 @@
+Dzvezda is a average star...
+
+## MERCURY_LIKE_PLANET
+
+
+## ASTEROID_BELT
+
+
+## EARTH_LIKE_PLANET
+
+
+## HUMAN_HOME_WORLD
+
+
+## ASTEROID_BELT_2
+
+
+## GAS_GIANT_PLANET

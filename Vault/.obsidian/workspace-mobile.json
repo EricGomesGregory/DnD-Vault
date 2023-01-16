@@ -13,9 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "736b0147fb8cc1cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efe897abeb5639dd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "Plane",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.36920417229832,
+                  "close": false
+                }
               }
             }
           }
@@ -44,7 +93,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#SylvanNebula",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
+            "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
+            "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md"
+            "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md"
           }
         }
       }
@@ -123,15 +172,15 @@
   },
   "active": "eed5ad2ab5b0a69d",
   "lastOpenFiles": [
-    "Spelljammer/Lore/Planes/SylvanNebula/Ghrian.md",
-    "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
-    "Spelljammer/Lore/Planes/Planes.md",
+    "Spelljammer/Spells/1st.md",
+    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
+    "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Dzvezda.md",
-    "Spelljammer/Lore/Planes/ElementalCore/Torpaq.md",
-    "Spelljammer/Lore/Planes/ElementalCore/Hava.md",
-    "Spelljammer/Lore/Planes/ElementalCore/Su.md",
     "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
-    "Spelljammer/Races/Aarakocra.md"
+    "Spelljammer/Lore/Planes/ElementalCore/Torpaq.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Su.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Hava.md",
+    "Spelljammer/Lore/Planes/SylvanNebula/Ghrian.md"
   ]
 }
