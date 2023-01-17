@@ -13,9 +13,9 @@ Sar'ha is a small arid and mountainous world that resides in a close orbit to Na
 
 ***Native Races.***
 The native races of Sar'ha are:
-- Red Dragonborn
+- [Red Dragonborn](Dragonborn#^red-dragonborn)
 - Red Kobolds
-- Gold Dragonborn
+- [Gold Dragonborn](Dragonborn^gold-dragonborn)
 - Gold Kobolds
 
 ___
@@ -25,9 +25,9 @@ Alzuhra is a small rocky world covered in greenish clouds, poisonous swamps, and
 
 ***Native Races.***
 The native races of Alzuhra are:
-- Black Dragonborn
+- [Black Dragonborn](Dragonborn^black-dragonborn)
 - Black Kobolds
-- Copper Dragonborn
+- [Copper Dragonborn](Dragonborn^copper-dragonborn)
 - Copper Kobolds
 
 ___
@@ -37,7 +37,7 @@ Wahah, also known as the oasis of Najma, is a small rocky world covered in fores
 
 ***Native Races.***
 The native races of Wahah are:
-- All Dragonborn
+- [All Dragonborn](Dragonborn)
 - All Kobolds
 
 ___
@@ -47,9 +47,9 @@ Fatan is a small rocky planet that is almost completely covered by water, the in
 
 ***Native Races.***
 The native races of Fatan are:
-- Blue Dragonborn
+- [Blue Dragonborn](Dragonborn^blue-dragonborn)
 - Blue Kobolds
-- Bronze Dragonborn
+- [Bronze Dragonborn](Dragonborn^bronze-dragonborn)
 - Bronze Kobolds
 
 ___
@@ -60,7 +60,7 @@ The residents of Mujam either live in the sprawling cave systems under the ice s
 
 ***Native Races.***
 The native races of Mujam are:
-- Silver Dragonborn
+- [Silver Dragonborn](Dragonborn^silver-dragonborn)
 - Silver Kobolds
-- White Dragonborn
+- [White Dragonborn](Dragonborn^white-dragonborn)
 - White Kobolds

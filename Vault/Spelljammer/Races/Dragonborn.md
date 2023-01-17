@@ -1,4 +1,37 @@
 
+### Dragonborn Physiology
+All dragonborn have mostly the same physiology, they are bipedal...
+
+#### Black
+^black-dragonborn
+
+#### Blue
+^blue-dragonborn
+
+#### Brass
+^brass-dragonbron
+
+#### Bronze
+^bronze-dragonborn
+
+#### Copper
+^copper-dragonborn
+
+#### Gold
+^gold-dragonborn
+
+#### Green
+^green-dragonborn
+
+#### Red
+^red-dragonborn
+
+#### Silver
+^silver-dragonborn
+
+#### White  
+^white-dragonborn
+
 ### Dragonborn Traits
 Your Dragonborn characters have the following traits.
 
