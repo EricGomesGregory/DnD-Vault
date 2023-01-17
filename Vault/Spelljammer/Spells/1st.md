@@ -7,8 +7,9 @@
 **Duration:** Concentration, up to 1 minute
 **Classes:** Bard, Sorcerer, Warlock
 
-You start to sing a soothing lullaby. Choose a number of creatures equal to yor proficiency bonus within range that can hear your song, each creature must make a Charisma saving throw or fall asleep.
+You start to sing a soothing lullaby. Choose a number of creatures equal to your proficiency bonus within range that can hear your song, each creature must make a Charisma saving throw or fall asleep.
 On your turn, you can use an action to maintain one of the  creature affected by the spell asleep, regardless of the actions taken to awake it.
+
 If you break concentration at any point all creatures awaken immediately. 
 
 ---

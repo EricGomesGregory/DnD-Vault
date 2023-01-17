@@ -27,3 +27,8 @@ DESCRIPTION.
 
 ***Languages.***
 You can speak, read, and write LANGUAGE.
+
+<br>
+
+## RACE Feats
+The following are RACE specific feats

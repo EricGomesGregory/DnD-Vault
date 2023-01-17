@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54ac08246dac180e",
+        "id": "f9cc91274518ff7d",
         "type": "tabs",
         "children": [
           {
-            "id": "10e79b69f719bb21",
+            "id": "6f48fa09d8f1dd43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
+                "file": "Spelljammer/Spells/1st.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
+                "file": "Spelljammer/Spells/1st.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
+                "file": "Spelljammer/Spells/1st.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spelljammer/Lore/Planes/ArmCivilization/Najma.md"
+                "file": "Spelljammer/Spells/1st.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "10e79b69f719bb21",
+  "active": "6f48fa09d8f1dd43",
   "lastOpenFiles": [
-    "Spelljammer/Races/Kobold.md",
+    "Spelljammer/Spells/0th.md",
+    "Spelljammer/Races/Illithid.md",
+    "Spelljammer/Races/Human.md",
+    "Spelljammer/Races/Half-Orc.md",
+    "Spelljammer/Races/Aarakocra.md",
+    "_Templates/Race.md",
     "Spelljammer/Races/Dragonborn.md",
-    "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
-    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
-    "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
-    "Spelljammer/Races/Dwarf.md",
-    "Spelljammer/Lore/Planes/SylvanNebula/Ghrian.md",
-    "Spelljammer/Lore/Planes/SylvanNebula/Geal'bàn.md",
-    "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
-    "Spelljammer/Races/Aarakocra.md"
+    "Spelljammer/Races/Automaton.md",
+    "Spelljammer/Races/Aasimar.md",
+    "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md"
   ]
 }
