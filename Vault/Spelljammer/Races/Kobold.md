@@ -1,4 +1,36 @@
 
+### Kobold Physiology
+
+#### Black
+^black-kobold
+
+#### Blue
+^blue-kobold
+
+#### Brass
+^brass-kobold
+
+#### Bronze
+^bronze-kobold
+
+#### Copper
+^copper-kobold
+
+#### Gold
+^gold-kobold
+
+#### Green
+^green-kobold
+
+#### Red
+^red-kobold
+
+#### Silver
+^silver-kobold
+
+#### White  
+^white-kobold
+
 ### Kobold Traits
 Your Kobold characters have the following traits.
 

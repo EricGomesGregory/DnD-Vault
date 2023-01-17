@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "8940aaab77dcbc3f",
@@ -157,6 +157,7 @@
   },
   "active": "10e79b69f719bb21",
   "lastOpenFiles": [
+    "Spelljammer/Races/Kobold.md",
     "Spelljammer/Races/Dragonborn.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
@@ -165,7 +166,6 @@
     "Spelljammer/Lore/Planes/SylvanNebula/Ghrian.md",
     "Spelljammer/Lore/Planes/SylvanNebula/Geal'bàn.md",
     "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
-    "Spelljammer/Races/Aarakocra.md",
-    "Spelljammer/Races/Elf.md"
+    "Spelljammer/Races/Aarakocra.md"
   ]
 }
