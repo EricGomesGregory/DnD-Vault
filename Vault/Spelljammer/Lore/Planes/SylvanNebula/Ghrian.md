@@ -26,7 +26,7 @@ Stuaghach once had a moon but it was replaced by a stellar keep known as the Cre
 
 ***Native Races.***
 The native races of Stuaghach are:
-- [Aard elves](Elf#^72d444)
+- [Aard elves](Elf#^aard)
 
 ___
 
@@ -35,7 +35,7 @@ The Geansaidh is a hot jungle planet...
 
 ***Native Races.***
 The native races of Geansaidh are:
-- [Nadur elves](Elf#^7a543b)
+- [Nadur elves](Elf#^nadur)
 
 ___
 

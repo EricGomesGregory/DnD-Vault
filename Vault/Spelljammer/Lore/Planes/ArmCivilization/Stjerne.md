@@ -19,9 +19,9 @@ Each city-state has grown both deeper into the ground as well as up into the sky
 
 ***Native Races.***
 The native races of Jordfjell are:
-- Fjellen Dwarves
+- [Fjellen Dwarfs](Dwarf#^fjellen)
 
-  
+___
 
 # D_COLONY_WORLD_NAME
 
@@ -30,5 +30,5 @@ D_COLONY_WORLD_NAME is the first dwarven colony... It is a small rocky world wit
 
 ***Native Races.***
 The native races of Jordfjell are:
-- Hoyden Dwarves
+- [Høyden Dwarves](Dwarf#^hoyden)
 

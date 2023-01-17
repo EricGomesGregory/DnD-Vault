@@ -18,7 +18,7 @@ Speur is a massive dark grey clouds. Orbiting the gas giant are nine moons of va
 
 ***Native Races.***
 The native races of the moons of Speur are:
-- [Drow elves](Elf#^bced8e)
+- [Drow elves](Elf#^drow)
 
 ## Beatha
 Beatha is the largest of the moons of Speur and the defacto home world of the drow. It is a rocky moon covered in a endlessly sprawling city known as Sìoda, the web city.

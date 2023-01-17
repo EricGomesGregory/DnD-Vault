@@ -31,7 +31,7 @@ In the Spelljammer setting there are three main subraces: Fjellen, høyden, and 
 
 
 #### Mountain Dwarf (Fjellen)
-
+^fjellen
 
 ***Ability Score Increase.***
 Your Strength score increases by 1.
@@ -42,7 +42,7 @@ Your hit point maximum increases by 1, and it increases by 1 every time you gain
 
 
 #### Hill Dwarf (Høyden)
-
+^hoyden
 
 ***Ability Score Increase.***
 Your Wisdom score increases by 1.
@@ -53,10 +53,7 @@ You are proficient in Wisdom (Insight) checks.
 
 
 #### Void Dwarf (Dueregar)
-
-^0f43c3
-
-
+^duergar
 
 ***Ability Score Increase.***
 Your Intelligence score increases by 1.

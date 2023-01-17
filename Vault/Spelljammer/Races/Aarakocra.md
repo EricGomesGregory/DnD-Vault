@@ -26,6 +26,7 @@ In the Spelljammer setting there are three main subraces: Cloud Aarakocra, and S
 
 
 #### Cloud Aarakocra
+^cloud-aarakocra
 
 ***Ability Score Increase.***
 Your Wisdom score increases by 1.
@@ -35,6 +36,7 @@ While flying you can use a reaction to reduce the damage taken from an attack by
 
 
 #### Storm Aarakocra
+^storm-aarakocra
 
 ***Ability Score Increase.***
 Your Constitution score increases by 1.

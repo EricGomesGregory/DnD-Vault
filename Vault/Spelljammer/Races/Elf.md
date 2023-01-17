@@ -32,8 +32,7 @@ In the Spelljammer setting there are three main subraces: Aard, nadur, and drow.
 
 
 #### High Elves (Aard)
-
-^72d444
+^aard
 
 
 ***Ability Score Increase.***
@@ -44,8 +43,7 @@ You know one Wizard cantrip. Once you reach 3rd level, you can cast one 1st leve
 
 
 #### Wood Elves (Nadur)
-
-^7a543b
+^nadur
 
 ***Ability Score Increase.***
 Your Wisdom score increases by 1.
@@ -58,8 +56,7 @@ You can attempt to hide even when you are only lightly obscured by foliage, heav
 
 
 #### Void Elves (Drow)
-
-^bced8e
+^drow
 
 ***Ability Score Increase.***
 Your Charisma score increases by 1.
