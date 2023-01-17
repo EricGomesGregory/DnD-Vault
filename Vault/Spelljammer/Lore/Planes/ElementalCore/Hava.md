@@ -35,7 +35,7 @@ Madyan's atmosphere is so dense that chunks of rock can float on top of the clou
 
 ***Native Races.***
 The native races of Madyan are:
-- Air Genasi
+- [Air Genasi](Genasi#^air-genasi)
 - Cloud Aarakocra
 
 

@@ -14,5 +14,5 @@ Dalgalar is a gargantuan water world with no land on its surface. Under the wate
 ***Native Races.***
 The native races of Dalgalar are:
 - [[Triton]]
-- [Water Genasi](Genasi#^479f85)
+- [Water Genasi](Genasi#^water-genasi)
 - 

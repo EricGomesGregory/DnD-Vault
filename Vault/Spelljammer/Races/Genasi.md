@@ -23,7 +23,7 @@ In the Spelljammer setting there are five main subraces: Air Genasi, Earth Genas
 
 
 #### Air Genasi
-
+^air-genasi
 
 ***Ability Score Increase.***
 Your Dexterity score increases by 1.
@@ -43,8 +43,7 @@ You can speak, read, and write Auran.
 
 
 #### Earth Genasi
-
-^56098e
+^earth-genasi
 
 
 ***Ability Score Increase.***
@@ -65,8 +64,7 @@ You can speak, read, and write Terran.
 
 
 #### Fire Genasi
-
-^acde01
+^fire-genasi
 
 
 ***Ability Score Increase.***
@@ -87,8 +85,7 @@ You can speak, read, and write Ignan.
 
 
 #### Water Genasi
-
-^479f85
+^water-genasi
 
 
 ***Ability Score Increase.***
@@ -112,7 +109,7 @@ You can speak, read, and write Aquan.
 
 
 #### Void Genasi
-
+^void-genasi
 
 ***Ability Score Increase.***
 Your Intelligence score increases by 1.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32810cab9c50981d",
+        "id": "54ac08246dac180e",
         "type": "tabs",
         "children": [
           {
-            "id": "95e895e7dd9eec6f",
+            "id": "10e79b69f719bb21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Spells/0th Level.md",
+                "file": "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Spells/0th Level.md",
+                "file": "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Spells/0th Level.md",
+                "file": "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spelljammer/Spells/0th Level.md"
+                "file": "Spelljammer/Lore/Planes/ElementalCore/Yangin.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "95e895e7dd9eec6f",
+  "active": "10e79b69f719bb21",
   "lastOpenFiles": [
+    "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
+    "_Templates/Race.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Torpaq.md",
+    "Spelljammer/Races/Genasi.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Su.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Hava.md",
+    "Spelljammer/Spells/0th Level.md",
     "Spelljammer/Races/Viperion.md",
     "Spelljammer/Races/Triton.md",
-    "Spelljammer/Races/Tiefling.md",
-    "Spelljammer/Races/Thri-Kreen.md",
-    "Spelljammer/Races/Orc.md",
-    "Spelljammer/Races/Oozeon.md",
-    "Spelljammer/Races/Myconid.md",
-    "Spelljammer/Races/Lizardfolk.md",
-    "Spelljammer/Races/Illithid.md",
-    "Spelljammer/Races/Human.md"
+    "Spelljammer/Races/Tiefling.md"
   ]
 }
