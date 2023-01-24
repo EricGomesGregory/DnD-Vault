@@ -73,7 +73,8 @@ You are distantly related to a particular kind of dragon. Choose a type of drago
 Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d4 + your Strength modifier ancestry damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ***Cunning Trap.***
-FLUFF. During a short or long rest you can spend 1 hour to craft a simple trap...
+FLUFF. During a short or long rest you can spend 1 hour to craft a simple trap that can be placed in a unoccupied space within 5 feet of you.
+When the trap is triggered by a
 
 ***Languages.***
 You can speak, read, and write Draconic.
