@@ -24,19 +24,19 @@ Within its clouds various races have established themselves as natives of the fl
 
 ***Native Races.***
 The native races of Typhan are:
-- Storm Aarakocra
+- [Storm Aarakocra](Aarakocra#^storm-aarakocra)
 
 ___
 
 ## Madyan
-Madyan is a the smallest of the three worlds of Hava, the world is  covered in thick white clouds that  hide the dephts of the planet.
+Madyan is a the smallest of the three worlds of Hava, the world is  covered in thick white clouds that hide the depths of the planet.
 
-Madyan's atmosphere is so dense that chunks of rock can float on top of the clouds, creating islands in the white sea.
+Madyan's atmosphere is so dense that chunks of rock can float on top of the clouds, creating habitable islands in a sea of clouds.
 
 ***Native Races.***
 The native races of Madyan are:
 - [Air Genasi](Genasi#^air-genasi)
-- Cloud Aarakocra
+- [Cloud Aarakocra](Aarakocra#^cloud-aarakocra)
 
 
 ___
@@ -49,7 +49,17 @@ ___
 ## Qan
 Qan is a gargantuan gas giant, coverd in red and brown clouds and storms that last for eons.
 
-Qan has no landmass to be inhabited buts its three moons are habitable.
+Qan has no landmass to be inhabited but its three moons are habitable.
 
 ***Native Races.***
 The native races of Qan's moons are:
+- RACE.
+
+### MOON_1
+DESCRIPTION.
+
+### MOON_2
+DESCRIPTION.
+
+### MOON_3
+DESCRIPTION.

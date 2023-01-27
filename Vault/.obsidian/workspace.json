@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "89cf3f5d369d1366",
+        "id": "23b7e6d4f2432f90",
         "type": "tabs",
         "children": [
           {
-            "id": "403a4199a5308a6e",
+            "id": "a3191c362ab2c8c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Races/Kobold.md",
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbc570eb597a57da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spelljammer/Equipment/Potions/Antidotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e349279a2f9aeb8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spelljammer/Equipment/Potions/Healing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "482e835438fa8e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spelljammer/Equipment/Potions/Antidotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9956ee00db865883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spelljammer/Races/Aarakocra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spelljammer/Races/Kobold.md"
+                "file": "Spelljammer/Equipment/Potions/Antidotes.md"
               }
             }
           },
@@ -95,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Races/Kobold.md",
+                "file": "Spelljammer/Equipment/Potions/Antidotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Races/Kobold.md",
+                "file": "Spelljammer/Equipment/Potions/Antidotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,17 +203,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "28bd3c713dfd2fec",
+  "active": "482e835438fa8e1f",
   "lastOpenFiles": [
-    "Spelljammer/Spells/1st.md",
-    "Spelljammer/Spells/0th.md",
-    "Spelljammer/Races/Illithid.md",
-    "Spelljammer/Races/Human.md",
-    "Spelljammer/Races/Half-Orc.md",
-    "Spelljammer/Races/Aarakocra.md",
-    "_Templates/Race.md",
-    "Spelljammer/Races/Dragonborn.md",
-    "Spelljammer/Races/Automaton.md",
-    "Spelljammer/Races/Aasimar.md"
+    "Spelljammer/Equipment/Potions/Healing.md",
+    "Spelljammer/Equipment/Potions/Oils.md",
+    "Spelljammer/Equipment/Potions/Antidotes.md",
+    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Hava.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Su.md",
+    "Spelljammer/Lore/Planes/ElementalCore/Torpaq.md",
+    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
+    "Spelljammer/Races/Aarakocra.md"
   ]
 }
