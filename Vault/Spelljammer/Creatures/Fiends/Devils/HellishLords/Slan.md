@@ -83,5 +83,6 @@ The following are Slan's personality, bonds, ideals, and flaws.
 >
 > ***Scorching Bondage (Costs 2 Actions).***
 > The chains created by Slan's Whip of Domination tighten and start glow red-hot. Each creature *Restrained* by Slan's Whip of Domination take (45) 10d8 fire damage.
+^slan-statblock
 
 

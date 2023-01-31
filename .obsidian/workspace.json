@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9f49f319dd1d99b2",
+        "id": "f08077c26e4d8550",
         "type": "tabs",
         "children": [
           {
-            "id": "bfde24b9edd3093c",
+            "id": "014fc8f2bb10ff1f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Spelljammer/Creatures/_Templates/Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f2ed9aa12630900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Spelljammer/Creatures/Constructs/StoneGuardian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Spelljammer/Creatures/Constructs/StoneGuardian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Spelljammer/Creatures/Constructs/StoneGuardian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vault/Spelljammer/Creatures/Constructs/StoneGuardian.md"
+              }
             }
           }
         ]
@@ -138,12 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfde24b9edd3093c",
+  "active": "7f2ed9aa12630900",
   "lastOpenFiles": [
-    "Vault/Spelljammer/Races/Triton.md",
-    "Vault/Spelljammer/Lore/Planes/ElementalCore/Hava.md",
-    "Vault/Spelljammer/Lore/Planes/Elemental Core/Hava.md",
-    "Vault/Spelljammer/Lore/Planes/Elemental Core/Su.md",
-    "Vault/Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md"
+    "Vault/Spelljammer/Vehicles/Mechas/Ironclads/Masamune.md",
+    "Vault/Spelljammer/Creatures/_Templates/Base.md",
+    "Vault/Spelljammer/Creatures/Constructs/StoneGuardian.md",
+    "Vault/_Templates/Creatures/Beast.md",
+    "Vault/_Templates/Creatures/Aberration.md",
+    "Vault/Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
+    "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
+    "Vault/Spelljammer/Lore/Planes/ArmCivilization/Dzvezda.md",
+    "Vault/Spelljammer/Races/Aarakocra.md",
+    "Vault/_Templates/Race.md"
   ]
 }

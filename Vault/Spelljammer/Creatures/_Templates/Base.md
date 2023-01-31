@@ -3,22 +3,22 @@
 > ## NAME
 >*SIZE TYPE, ALIGNMENT*
 >
-> - **Armor Class** 00
-> - **Hit Points** 000 (0d0 + 0)
-> - **Speed** 0 ft.
+> **Armor Class** 00
+> **Hit Points** 000 (0d0 + 0)
+> **Speed** 0 ft.
 >
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 >| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 >
-> - **Saving Throws** NONE
-> - **Skills** NONE
-> - **Damage Immunities** NONE
-> - **Damage Resistances** NONE
-> - **Condition Immunities** NONE
-> - **Senses** passive Perception 00
-> - **Languages** LANGUAGE
-> - **Level** 00 **PB** +0 (0 XP)
+> **Saving Throws** NONE
+> **Skills** NONE
+> **Damage Immunities** NONE
+> **Damage Resistances** NONE
+> **Condition Immunities** NONE
+> **Senses** passive Perception 00
+> **Languages** LANGUAGE
+> **Level** 00 **PB** +0 (0 XP)
 > 
 > ***FEATURE.*** FEATURE DESCRIPTION
 >

@@ -12,20 +12,20 @@ When fighting inside its lair, a death kiss can invoke the ambient magic to take
 > ## Death Kiss
 >*Large aberation, chaotic evil*
 >
-> - **Armor Class** 16 (natural armor)
-> - **Hit Points** 190 (20d10 + 80)
-> - **Speed** 0 ft., fly 20 ft. (hover)
+> **Armor Class** 16 (natural armor)
+> **Hit Points** 190 (20d10 + 80)
+> **Speed** 0 ft., fly 20 ft. (hover)
 >
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 >| 10 (+0) | 15 (+2) | 18 (+4) | 15 (+2) | 17 (+3) | 17 (+3) |
 >
-> - **Saving Throws** Dex +7, Con +9, Wis +8
-> - **Skills** Perception +8, *Stealth* +12
-> - **Condition Immunities** prone
-> - **Senses** Darkvision 120 ft., passive Perception 18
-> - **Languages** Deep Speech, Undercommon
-> - **Challenge** 13 (10,000 XP)
+> **Saving Throws** Dex +7, Con +9, Wis +8
+> **Skills** Perception +8, *Stealth* +12
+> **Condition Immunities** prone
+> **Senses** Darkvision 120 ft., passive Perception 18
+> **Languages** Deep Speech, Undercommon
+> **Challenge** 13 (10,000 XP)
 > 
 > ***Enfeeblement Cone.***
 > The death kiss's central eye creates an area of enfeeblement in a 150-foot cone, creatures in the area have disadvantage on weapon attacks and deal only half damage with weapon attacks that use Strength. At the start of each of its turns, the death kiss decides which way the cone faces and whether the cone is active.

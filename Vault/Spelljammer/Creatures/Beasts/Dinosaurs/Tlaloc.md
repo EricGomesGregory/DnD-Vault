@@ -24,22 +24,22 @@ The following are Tlaloc's characteristics such as his personality, ideals, bond
 > ## Tlaloc
 >*Huge awakened beast, chaotic neutral*
 >
-> - **Armor Class** 16 (Natural armor)
-> - **Hit Points** 207 (18d12 + 90)
-> - **Speed** 30 ft., swim 30 ft.
+> **Armor Class** 16 (Natural armor)
+> **Hit Points** 207 (18d12 + 90)
+> **Speed** 30 ft., swim 30 ft.
 >
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 >| 18 (+4) | 15 (+2) | 20 (+5) | 10 (+0) | 15 (+2) | 11 (+0) |
 >
-> - **Saving Throws** Str +10, Con +11
-> - **Skills** Athletics +10, Religion +8, Stealth +8
-> - **Damage Immunities** Lightning
-> - **Damage Resistances** NONE
-> - **Condition Immunities** NONE
-> - **Senses** passive Perception 12
-> - **Languages** Lizardfolk
-> - **Level** 18 **PB** +6
+> **Saving Throws** Str +10, Con +11
+> **Skills** Athletics +10, Religion +8, Stealth +8
+> **Damage Immunities** Lightning
+> **Damage Resistances** NONE
+> **Condition Immunities** NONE
+> **Senses** passive Perception 12
+> **Languages** Lizardfolk
+> **Level** 18 **PB** +6
 >
 > ***Hold Breath.***
 > The spinosaurus can hold its breath for 1 hour.
@@ -67,4 +67,4 @@ The following are Tlaloc's characteristics such as his personality, ideals, bond
 > ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit* 20 (3d10 + 4) Slashing damage. 
 >
 > ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit* 14 (3d6 + 4) Bludgeoning damage and if the target is a Large sized creature or smaller it must succeed on a DC 18 Strength saving throw or be knocked Prone. 
->
+^tlaloc-statblock

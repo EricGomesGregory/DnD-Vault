@@ -9,26 +9,24 @@ The Masamune was built in the world of HUMAN_WORLD in the nation of JAPAN_LIKE_N
 ### Piloting Masamune
 While seated in the Masamune control room you can control it in your during your turn, but using its stat block, and any feature that references to the *pilot* affects you.
 
-___
-___
 > ## Masamune
 >*Huge construct vehicle*
-> ___
-> - **Armor Class** 18 (Plate)
-> - **Hit Points** 110 (Damage threshold 9)
-> - **Speed** 30 ft.
->___
+>
+> **Armor Class** 18 (Plate)
+> **Hit Points** 110 (Damage threshold 9)
+> **Speed** 30 ft.
+>
 >|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 >|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 >| 18 (+4) | 16 (+3) | 20 (+5) |    0    |    0    |    0    |
->___
-> - **Saving Throws** Str +8, Dex +7
-> - **Skills** Acrobatics +7, Athletics +8
-> - **Damage Immunities** Poison, Psychic
-> - **Condition Immunities** Charmed, Deafened, Exhaustion, Frightened, Incapacitated, Paralyzed, Petrified, Poisoned, Unconscious
-> - **Senses** Darkvision 60 ft.
-> - **Level** 10 **PB** +4
-> ___
+>
+> **Saving Throws** Str +8, Dex +7
+> **Skills** Acrobatics +7, Athletics +8
+> **Damage Immunities** Poison, Psychic
+> **Condition Immunities** Charmed, Deafened, Exhaustion, Frightened, Incapacitated, Paralyzed, Petrified, Poisoned, Unconscious
+> **Senses** Darkvision 60 ft.
+> **Level** 10 **PB** +4
+>
 > ***Immutable Form.***
 > Masamune is immune to any spell or Effect that would alter its form.
 >

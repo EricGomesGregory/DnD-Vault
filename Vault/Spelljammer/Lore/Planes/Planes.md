@@ -1,5 +1,6 @@
 Stars in the Spelljammer setting have so much arcane power in the Astral Sea that powerful spell casters are capable of using them as anchors for teleportation spells such as *spell*...
 
+---
 
 ## Regions and Planes
 The following are the planes of the Spelljammer setting, organized by regions:
@@ -20,6 +21,8 @@ The following are the planes of the Spelljammer setting, organized by regions:
 - #### Beast Stars
 	- A
 - #### Eldritch Beyond
+
+---
 
 ## Concepts
 The following are the core concepts for the Spelljammer setting regarding its planes...

@@ -63,4 +63,4 @@ The following are Typhus personality, bonds, ideals, and flaws.
 > ***Bell Attack.*** Typhus makes a attack with its bell of decay.
 >
 > ***Cast Spell (Costs 2 Actions).*** Typhus casts a at will spell.
->
+^typhus-statblock
