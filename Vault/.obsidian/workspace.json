@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "79975501e3100c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spelljammer/Classes/Commander.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9956ee00db865883",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spelljammer/Equipment/Potions/Antidotes.md"
+                "file": "Spelljammer/Classes/Commander.md"
               }
             }
           },
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Equipment/Potions/Antidotes.md",
+                "file": "Spelljammer/Classes/Commander.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Equipment/Potions/Antidotes.md",
+                "file": "Spelljammer/Classes/Commander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,11 +215,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "482e835438fa8e1f",
+  "active": "79975501e3100c2a",
   "lastOpenFiles": [
+    "Spelljammer/Equipment/Potions/Antidotes.md",
     "Spelljammer/Equipment/Potions/Healing.md",
     "Spelljammer/Equipment/Potions/Oils.md",
-    "Spelljammer/Equipment/Potions/Antidotes.md",
     "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
     "Spelljammer/Lore/Planes/ElementalCore/Hava.md",
     "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
