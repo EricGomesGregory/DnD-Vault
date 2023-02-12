@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Gunslinger.md",
+                "file": "Vault/Spelljammer/Classes/Channeler.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Gunslinger.md",
+                "file": "Vault/Spelljammer/Classes/Channeler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Gunslinger.md",
+                "file": "Vault/Spelljammer/Classes/Channeler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Gunslinger.md"
+                "file": "Vault/Spelljammer/Classes/Channeler.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "3541cd55b043aa22",
   "lastOpenFiles": [
+    "Vault/Spelljammer/Classes/Gunslinger.md",
     "Vault/Spelljammer/Classes/Channeler.md",
-    "Vault/Spelljammer/Classes/Commander.md",
     "Vault/_Templates/Classes/Martial.md",
+    "Vault/Spelljammer/Classes/Commander.md",
     "Commander^units.md",
     "Vault/Spelljammer/Creatures/_Templates/Base.md",
     "().md",
-    "Vault/Spelljammer/Classes/Gunslinger.md",
     "Vault/_Templates/Classes/Caster.md",
     "Vault/Spelljammer/Creatures/Constructs/StoneGuardian.md",
     "Vault/Spelljammer/Vehicles/Mechas/Ironclads/Masamune.md"
