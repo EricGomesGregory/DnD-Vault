@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23b7e6d4f2432f90",
+        "id": "e6bb01d3f880f1af",
         "type": "tabs",
         "children": [
           {
-            "id": "a3191c362ab2c8c1",
+            "id": "4bf96f85f71534bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,69 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cbc570eb597a57da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelljammer/Equipment/Potions/Antidotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e349279a2f9aeb8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelljammer/Equipment/Potions/Healing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "482e835438fa8e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelljammer/Equipment/Potions/Antidotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79975501e3100c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelljammer/Classes/Commander.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9956ee00db865883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelljammer/Races/Aarakocra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spelljammer/Classes/Commander.md"
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md"
               }
             }
           },
@@ -156,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Classes/Commander.md",
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Classes/Commander.md",
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,17 +154,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "79975501e3100c2a",
+  "active": "4bf96f85f71534bf",
   "lastOpenFiles": [
-    "Spelljammer/Equipment/Potions/Antidotes.md",
-    "Spelljammer/Equipment/Potions/Healing.md",
-    "Spelljammer/Equipment/Potions/Oils.md",
-    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
-    "Spelljammer/Lore/Planes/ElementalCore/Hava.md",
-    "Spelljammer/Lore/Planes/ElementalCore/Yangin.md",
-    "Spelljammer/Lore/Planes/ElementalCore/Su.md",
-    "Spelljammer/Lore/Planes/ElementalCore/Torpaq.md",
-    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
-    "Spelljammer/Races/Aarakocra.md"
+    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
+    "_Templates/Creatures/_Base.md",
+    "Spelljammer/Creatures/Aberations/Beholders/Draconus.md",
+    "_Templates/Creatures/_Experience.md",
+    "_Templates/Creatures/Aberrations.md",
+    "Spelljammer/Creatures/Aberations/Beholders/Gravitus.md",
+    "_Templates/Race.md",
+    "_Templates/Creatures/Beast.md",
+    "Spelljammer/Creatures/_Templates/Base.md",
+    "Spelljammer/Creatures/Dragons/ObsidianDragon.md"
   ]
 }

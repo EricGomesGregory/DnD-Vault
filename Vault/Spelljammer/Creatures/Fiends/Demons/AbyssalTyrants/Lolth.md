@@ -41,6 +41,11 @@ The following are Lolth's personality, bonds, ideals, and flaws.
 - **Hit Points** 435 (30d20 + 120)
 - **Speed** 60 ft., climb 60 ft.
 
+**Armor Class** 20 (Natural Armor)
+**Hit Points** 435 (30d20 + 120)
+**Speed** 60 ft., climb 60 ft.
+
+
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA    |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:--------:|
 | 10 (+0) | 25 (+7) | 18 (+4) | 16 (+3) | 18 (+4) | 30 (+10) |
@@ -52,8 +57,18 @@ The following are Lolth's personality, bonds, ideals, and flaws.
 - **Condition Immunities** NONE
 - **Senses** passive Perception 00
 - **Languages** LANGUAGE
-- **Level** 30 **PB** +9
+- **Level** 30 **PB** +9 (XP 00,000)
  
+**Saving Throws** Dex +18, Int +12, Wis +13, Cha +19 
+**Skills** *Deception* +28,
+**Damage Immunities** Psychic
+**Damage Resistances** NONE
+**Condition Immunities** NONE
+**Senses** passive Perception 00
+**Languages** LANGUAGE
+**Level** 30 **PB** +9
+
+### Features
 ***FEATURE.*** FEATURE DESCRIPTION
 
 ### Actions
