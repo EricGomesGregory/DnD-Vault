@@ -20,7 +20,7 @@ ___
 ## Stuaghach
 The Stuaghach is a medium-sized world covered in massive oceans and forested islands and small continents.
 
-The various landmasses of Stuagthach have mountains covered in crystal growths.
+The various landmasses of Stuaghach have mountains covered in crystal growths.
 
 Stuaghach once had a moon but it was replaced by a stellar keep known as the Crescent Keep.
 

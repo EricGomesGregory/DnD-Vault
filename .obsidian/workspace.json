@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Channeler.md",
+                "file": "Vault/Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "632f0c7949b3c219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/_Templates/Creatures/Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26cf3d1acb170c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Spelljammer/Creatures/Fiends/Demons/Drider.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3980b116b140e6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Channeler.md",
+                "file": "Vault/Spelljammer/Creatures/Fiends/Demons/Drider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Channeler.md",
+                "file": "Vault/Spelljammer/Creatures/Fiends/Demons/Drider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Channeler.md"
+                "file": "Vault/Spelljammer/Creatures/Fiends/Demons/Drider.md"
               }
             }
           }
@@ -146,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3541cd55b043aa22",
+  "active": "26cf3d1acb170c54",
   "lastOpenFiles": [
-    "Vault/Spelljammer/Classes/Gunslinger.md",
+    "Vault/_Templates/Creatures/Base.md",
+    "Vault/_Templates/Creatures/Beast.md",
+    "Vault/Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
+    "Vault/Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
+    "Vault/Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
+    "Vault/Spelljammer/Lore/Planes/SylvanNebula/Ghrian.md",
+    "Vault/Spelljammer/Lore/Planes/Planes.md",
     "Vault/Spelljammer/Classes/Channeler.md",
-    "Vault/_Templates/Classes/Martial.md",
-    "Vault/Spelljammer/Classes/Commander.md",
-    "Commander^units.md",
-    "Vault/Spelljammer/Creatures/_Templates/Base.md",
-    "().md",
-    "Vault/_Templates/Classes/Caster.md",
-    "Vault/Spelljammer/Creatures/Constructs/StoneGuardian.md",
-    "Vault/Spelljammer/Vehicles/Mechas/Ironclads/Masamune.md"
+    "Vault/Spelljammer/Classes/Gunslinger.md",
+    "Vault/_Templates/Classes/Martial.md"
   ]
 }

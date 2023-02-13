@@ -46,9 +46,17 @@ You start with the following equipment, in addition to the equipment granted by 
 - ITEMS
 
 ### Channeled Spirit
-FLUFF. Starting at 1st level you have the ability to conjure a spirit that is an extension of your will, choose between OPTION_1, OPTION_2, or OPTION_3. Your channeled spirit choice grants you features at 3rd level and then again at 5th, 10th, 14th, and 20th level.
+FLUFF. Starting at 1st level you have the ability to conjure a spirit that is an extension of your will, choose between [OPTION_1](Channeler#OPTION_1), OPTION_2, or OPTION_3. Your channeled spirit choice grants you features at 3rd level and then again at 5th, 10th, 14th, and 20th level.
 
 ### Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Charisma modifier.
 
 While you have you are channeling your spirit you have +2 to your AC.
+
+
+
+
+## Channeled Spirits
+
+
+### OPTION_1

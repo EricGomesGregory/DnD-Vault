@@ -35,7 +35,7 @@ Colbhan is a massive pillar of grey stone with huge archways all throughout the 
 
 
 ## Kristyl
-Kristy is a massive glass like moon that is covered in crystal mountains.
+Kristyl is a massive glass like moon that is covered in crystal mountains.
 
 The moon has a foggy atmosphere that is lethal to all that breath it.
 
@@ -55,7 +55,7 @@ The drow that inhabit Snàithle reside in villages and cities within the ravine 
 
 
 ## Sgàrlaid
-Sgàrlaid is a deep redish orange moon with beige and ocher streaks that form web like lines.
+Sgàrlaid is a deep reddish orange moon with beige and ocher streaks that form web like lines.
 
 Sgàrlaid is sparsely inhabited by Drow that use the moon as a source of minerals.
 
@@ -107,6 +107,6 @@ The purple city is known as Roinneth or the shared city and is a place where Dro
 
 
 ### Opptìr
-Opptìr is a cluster of small asteroids connected by hexagons brass tubes. Opptìr is a Duergar settlement owned by the Syr-Gaard grup.
+Opptìr is a cluster of small asteroids connected by hexagons brass tubes. Opptìr is a Duergar settlement owned by the Syr-Gaard group.
 
-The Syr-Gaard grup is a joint venture between the clans Syr and Gaard for the development of new astral ships.
+The Syr-Gaard group is a joint venture between the clans Syr and Gaard for the development of new astral ships.

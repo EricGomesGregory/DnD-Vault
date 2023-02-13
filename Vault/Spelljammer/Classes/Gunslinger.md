@@ -1,5 +1,5 @@
 ##### The Gunslinger
-| Level | Proficiency Bonus | Features           |  Grit |
+| Level | Proficiency Bonus | Features    |  Grit Points |
 |:-----:|:--:|:-------------------------------------|:--:|
 |  1st  | +2 | Slinger Archetype, Unarmored Defense |    |
 |  2nd  | +2 | Grit, Trickshot                      |  2 |
