@@ -1,4 +1,3 @@
-## Masamune
 Masamune is a huge suit of samurai armor with a cannon strapped to its left arm and caries a greatsword. The breastplate of the suit can open and within it resides a small room with a cushioned chair adorned with arcane glyphs. Sitting in the chair a humanoid can take control of Masamune.
 
 Masamune has a Nodachi, a huge two-handed katana sheathed on its back and plain naval cannon attached to the left forearm.

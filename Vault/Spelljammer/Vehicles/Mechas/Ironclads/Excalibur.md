@@ -1,4 +1,3 @@
-## Excalibur
 Excalibur is a huge suit of plate armor, adorned with golden holy glyphs, 
 
 
@@ -44,3 +43,4 @@ While seated in the Excalibur control room you can control it in your during you
 ***Slam.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit* 15 (3d6 + 5) Bludgeoning damage. A creature that is Huge or smaller must make a DC 19 Strength saving throw or be knocked Prone.
 
 ***Radiant Saber.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit* 18 (3d8 + 5) Radiant damage. This weapon ignores Damage thresholds when calculating damage.
+^statblock
