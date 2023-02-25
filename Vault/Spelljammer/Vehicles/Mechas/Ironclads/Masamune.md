@@ -3,10 +3,14 @@ Masamune is a huge suit of samurai armor with a cannon strapped to its left arm 
 Masamune has a Nodachi, a huge two-handed katana sheathed on its back and plain naval cannon attached to the left forearm.
 
 ### History
-The Masamune was built in the world of HUMAN_WORLD in the nation of JAPAN_LIKE_NATION by a master craftsmen during a great war...
+The Masamune was built in the world of HUMAN_WORLD in the nation of JAPAN_LIKE_NATION by a master craftsmen of the HUMAN_CLAN to fight in the War of Calamity, a period of 100 years in which the nations of HUMAN_PLANE were fighting in a plane spanning war for dominance that ended mysteriously.
+
+The Masamune was then kept as a relic of the HUMAN_CLAN for generations until it was stolen by a rival clan and kept in a castle for two generations, until it was again stolen, this time by a crew of spelljamming pirates that have been unable to use it so have kept the Masamune in a warehouse for the past years.
 
 ### Piloting Masamune
 While seated in the Masamune control room you can control it in your during your turn, but using its stat block, and any feature that references to the *pilot* affects you.
+
+<br>
 
 ## Masamune
 *Huge construct vehicle*
