@@ -1,12 +1,12 @@
-Anubis DESCRIPTION.
+The Anubis a huge suit of blackish purple metal with sharp silver claws and a spear-tipped tail.
 
 
-### Piloting NAME
-While seated in the NAME control room you can control it in your during your turn, but using its stat block, and any feature that references to the *pilot* affects you.
+### Piloting Anubis
+While seated in the Anubis control room you can control it in your during your turn, but using its stat block, and any feature that references to the *pilot* affects you.
 
-<br/>
+<br>
 
-## NAME
+## Anubis
 *Huge construct vehicle*
 
 **Armor Class** 21 (MATERIAL Plate)
@@ -39,4 +39,4 @@ Anubis deals double damage to Objects and Structures.
 
 ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit* 12 (3d4 + 5) Slashing damage.
 
-***Tail Spike.*** *Melee Weapon Attack:* -1 to hit, reach 5 ft., one target. *Hit* 12 (3d12 + 5) Piercing damage. When fighting a vehicle half the damage dealt to the vehicle (rounded down) is dealt to a creature within the target vehicle.
+***Tail Spike.*** *Melee Weapon Attack:* -1 to hit, reach 30 ft., one target. *Hit* 12 (3d12 + 5) Piercing damage. When fighting a vehicle half the damage dealt to the vehicle (rounded down) is dealt to a creature within the target vehicle.
