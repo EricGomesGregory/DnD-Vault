@@ -10,7 +10,7 @@ While seated in the Anubis control room you can control it in your during your t
 *Huge construct vehicle*
 
 **Armor Class** 21 (MATERIAL Plate)
-**Hit Points** 8 * LEVEL (Damage threshold 7)
+**Hit Points** 120 (Damage threshold 7)
 **Speed** 0 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
