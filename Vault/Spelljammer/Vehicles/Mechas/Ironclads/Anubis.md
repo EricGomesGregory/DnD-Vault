@@ -11,7 +11,7 @@ While seated in the Anubis control room you can control it in your during your t
 
 **Armor Class** 21 (MATERIAL Plate)
 **Hit Points** 120 (Damage threshold 7)
-**Speed** 0 ft.
+**Speed** 40 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
