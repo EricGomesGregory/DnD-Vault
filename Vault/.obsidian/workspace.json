@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spelljammer/Vehicles/AstralShips/Devil/Trident.md"
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,9 @@
   },
   "active": "610e6b67fcf0c521",
   "lastOpenFiles": [
+    "Spelljammer/Vehicles/AstralShips/Dragonborn/Hammerhead.md",
+    "Spelljammer/Vehicles/AstralShips/Dragonborn/Broadsword.md",
+    "Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
     "Spelljammer/Equipment/Weapons/2-Rare/Bows.md",
     "Spelljammer/Equipment/Weapons/1-Uncommon/Axes.md",
     "Spelljammer/Equipment/Weapons/2-Rare/Swords.md",

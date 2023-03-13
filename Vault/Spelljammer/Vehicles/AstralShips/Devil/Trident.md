@@ -35,8 +35,7 @@ DESCRIPTION.
 **Armor Class** 00
 **Hit Points** 00
 
-***Control.***
-While using the CONTROL you can make the Trident move up to the speed of its Pain Engine, with one 90-degree turn. If the CONTROL is destroyed, the Trident can't turn.
+***Control.*** While using the CONTROL you can make the Trident move up to the speed of its Pain Engine, with one 90-degree turn. If the CONTROL is destroyed, the Trident can't turn.
 
 
 ### Movement: Pain Engine
@@ -45,9 +44,9 @@ While using the CONTROL you can make the Trident move up to the speed of its Pai
 **Speed** 60 ft., DESTRUCTION CONDITION
 
 
-#### Weapons: WEAPON (0)
+### Weapons: WEAPON (0)
 **Armor Class** 00
 **Hit Points** 00
 
-### Actions
+#### Actions
 ***RANGED.*** *Ranged Weapon Attack:* +0 to hit, range 0/0 ft., one target. *Hit* 0 (0d0 + 0) TYPE damage. 
