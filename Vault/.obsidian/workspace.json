@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b8d60ae41da246b1",
+        "id": "b51a929603447919",
         "type": "tabs",
         "children": [
           {
-            "id": "4d557325a8f76ebe",
+            "id": "610e6b67fcf0c521",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelljammer/Vehicles/Mechas/Ironclads/Anubis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceb795b74a47f0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/Creatures/_Experience.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spelljammer/Vehicles/Mechas/Ironclads/Anubis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Vehicles/Mechas/Ironclads/Anubis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Vehicles/Mechas/Ironclads/Anubis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,14 +147,24 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4d557325a8f76ebe",
+  "active": "610e6b67fcf0c521",
   "lastOpenFiles": [
-    "Spelljammer/Vehicles/Mechas/Ironclads/Masamune.md",
-    "Spelljammer/Vehicles/Mechas/Ironclads/Anubis.md",
+    "Spelljammer/Equipment/Weapons/2-Rare/Bows.md",
+    "Spelljammer/Equipment/Weapons/1-Uncommon/Axes.md",
+    "Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
+    "Spelljammer/Equipment/Weapons/1-Uncommon/MeleeWeapons.md",
+    "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
+    "Spelljammer/Lore/Planes/SylvanNebula/Ghrian.md",
+    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
+    "Spelljammer/Lore/Planes/Planes.md",
+    "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
+    "Spelljammer/Creatures/Constructs/RunedServitors.md",
+    "_Templates/Race.md",
     "_Templates/Creatures/_Experience.md",
+    "Spelljammer/Vehicles/Mechas/Ironclads/Anubis.md",
+    "Spelljammer/Vehicles/Mechas/Ironclads/Masamune.md",
     "Spelljammer/Vehicles/Mechas/_Template.md",
     "Spelljammer/Classes/Channeler.md",
-    "Spelljammer/Creatures/Constructs/RunedServitors.md",
     "_Templates/Creatures/_Base.md",
     "Spelljammer/Creatures/Constructs/StoneGuardian.md",
     "Spelljammer/Equipment/Weapons/2-Rare/Glaives.md",
