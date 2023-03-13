@@ -1,3 +1,8 @@
+---
+tags:
+- Race
+---
+
 
 ### RACE Traits
 Your RACE characters have the following traits.
@@ -28,7 +33,19 @@ DESCRIPTION.
 ***Languages.***
 You can speak, read, and write LANGUAGE.
 
+***Subraces.***
+RACE has N subraces. Choose one between SUBRACE_LIST.
+
+
+
 <br>
+<hr>
 
 ## RACE Feats
-The following are RACE specific feats
+The following are the feats available for the RACE race. This feats can substitute one feature from the race or can be taken during a ability score improvement.
+
+
+#### FEATURE
+*Prerequisite: PREREQUISITE*
+
+FEATURE_DESCRIPTION.

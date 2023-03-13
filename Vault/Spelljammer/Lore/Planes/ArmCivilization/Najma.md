@@ -56,7 +56,7 @@ ___
 
 # Mujam
 Mujam is a small mountainous world covered in thick sheets of ice and snow.
-The residents of Mujam either live in the sprawling cave systems under the ice sheets or on the thermal bubbles around the active volcanos of the world.
+The residents of Mujam either live in the sprawling cave systems under the ice sheets or on the thermal bubbles around the active volcanoes of the world.
 
 ***Native Races.***
 The native races of Mujam are:

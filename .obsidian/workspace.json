@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f08077c26e4d8550",
+        "id": "78bfe05ec919f5bf",
         "type": "tabs",
         "children": [
           {
-            "id": "3541cd55b043aa22",
+            "id": "7a8ac9af9d848621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "632f0c7949b3c219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/_Templates/Creatures/Base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26cf3d1acb170c54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Spelljammer/Creatures/Fiends/Demons/Drider.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21eb9765f01fee27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/3-Heavy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a23ce61d8fcc90d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5611b69343be9b9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/2-Medium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3980b116b140e6c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
+                "file": "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/2-Medium.md",
+                "file": "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/2-Medium.md",
+                "file": "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/2-Medium.md"
+                "file": "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md"
               }
             }
           }
@@ -219,20 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5611b69343be9b9b",
+  "active": "7a8ac9af9d848621",
   "lastOpenFiles": [
-    "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
-    "Vault/Spelljammer/Equipment/Armor/Rare/2-Medium.md",
-    "Vault/Spelljammer/Equipment/Armor/Rare/3-Heavy.md",
-    "Vault/Spelljammer/Creatures/Fiends/Demons/Drider.md",
+    "Vault/_Templates/Creatures/_Base.md",
+    "Vault/TowerBabel",
     "Vault/_Templates/Creatures/Base.md",
-    "Vault/_Templates/Creatures/Beast.md",
-    "Vault/Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
-    "Vault/Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
-    "Vault/Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
-    "Vault/Spelljammer/Lore/Planes/SylvanNebula/Ghrian.md",
-    "Vault/Spelljammer/Lore/Planes/Planes.md",
-    "Vault/Spelljammer/Classes/Channeler.md",
-    "Vault/Spelljammer/Classes/Gunslinger.md"
+    "Vault/Spelljammer/Vehicles/Mechas/Drow-Cliodhna.md",
+    "README.md",
+    "Vault/Spelljammer/Races/Orc.md",
+    "Vault/_Templates/Race.md",
+    "Vault/Spelljammer/Races/Viperion.md",
+    "Vault/Spelljammer/Races/Lizardfolk.md",
+    "Vault/Spelljammer/Races/Automaton.md",
+    "Vault/Spelljammer/Races/Aasimar.md",
+    "Vault/Spelljammer/Races/Aarakocra.md",
+    "Vault/Spelljammer/Races/Triton.md",
+    "Vault/Spelljammer/Races/Tiefling.md",
+    "Vault/Spelljammer/Races/Thri-Kreen.md",
+    "Vault/Spelljammer/Races/Oozeon.md",
+    "Vault/Spelljammer/Races/Myconid.md",
+    "Vault/Spelljammer/Races/Kobold.md",
+    "Vault/Spelljammer/Races/Illithid.md",
+    "Vault/Spelljammer/Races/Human.md",
+    "Vault/Spelljammer/Races/Half-Orc.md",
+    "Vault/Spelljammer/Races/Half-Elf.md",
+    "Vault/Spelljammer/Races/Goblin.md",
+    "Vault/Spelljammer/Races/Genasi.md",
+    "Vault/Spelljammer/Races/Elf.md",
+    "Vault/Spelljammer/Races/Dwarf.md",
+    "Vault/Spelljammer/Races/Dragonborn.md"
   ]
 }
