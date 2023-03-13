@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f8a8de5369f2d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc3ad089a0f08e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
+                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
+                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md"
+                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md"
               }
             }
           }
@@ -146,8 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a8ac9af9d848621",
+  "active": "bc3ad089a0f08e09",
   "lastOpenFiles": [
+    "Vault/Spelljammer/Equipment/Weapons/1-Uncommon/MeleeWeapons.md",
+    "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
+    "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Vault/_Templates/Creatures/_Base.md",
     "Vault/TowerBabel",
     "Vault/_Templates/Creatures/Base.md",
@@ -171,9 +199,6 @@
     "Vault/Spelljammer/Races/Half-Orc.md",
     "Vault/Spelljammer/Races/Half-Elf.md",
     "Vault/Spelljammer/Races/Goblin.md",
-    "Vault/Spelljammer/Races/Genasi.md",
-    "Vault/Spelljammer/Races/Elf.md",
-    "Vault/Spelljammer/Races/Dwarf.md",
-    "Vault/Spelljammer/Races/Dragonborn.md"
+    "Vault/Spelljammer/Races/Genasi.md"
   ]
 }
