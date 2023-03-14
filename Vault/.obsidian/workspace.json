@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
+                "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md"
+                "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
+                "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
+                "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,10 @@
   },
   "active": "610e6b67fcf0c521",
   "lastOpenFiles": [
+    "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
+    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
+    "Spelljammer/Lore/Planes/ArmCivilization/Dzvezda.md",
+    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
     "Spelljammer/Vehicles/AstralShips/Dragonborn/Hammerhead.md",
     "Spelljammer/Vehicles/AstralShips/Dragonborn/Broadsword.md",
     "Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
@@ -164,7 +168,6 @@
     "Spelljammer/Equipment/Weapons/1-Uncommon/Axes.md",
     "Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
     "Spelljammer/Equipment/Weapons/1-Uncommon/MeleeWeapons.md",
-    "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Spelljammer/Lore/Planes/SylvanNebula/Ghrian.md",
     "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
     "Spelljammer/Lore/Planes/Planes.md",
