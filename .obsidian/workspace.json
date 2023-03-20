@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "78bfe05ec919f5bf",
+        "id": "046616b31be71f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "7a8ac9af9d848621",
+            "id": "ddb32f21fbab614b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f8a8de5369f2d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc3ad089a0f08e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
+                "file": "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
+                "file": "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
+                "file": "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md"
+                "file": "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md"
               }
             }
           }
@@ -171,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc3ad089a0f08e09",
+  "active": "6144485e5641661d",
   "lastOpenFiles": [
-    "Vault/Spelljammer/Equipment/Weapons/1-Uncommon/MeleeWeapons.md",
-    "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
+    "Vault/Me",
     "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
+    "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
+    "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+    "Vault/Spelljammer/Equipment/Weapons/1-Uncommon/MeleeWeapons.md",
     "Vault/_Templates/Creatures/_Base.md",
     "Vault/TowerBabel",
     "Vault/_Templates/Creatures/Base.md",
@@ -197,8 +174,6 @@
     "Vault/Spelljammer/Races/Illithid.md",
     "Vault/Spelljammer/Races/Human.md",
     "Vault/Spelljammer/Races/Half-Orc.md",
-    "Vault/Spelljammer/Races/Half-Elf.md",
-    "Vault/Spelljammer/Races/Goblin.md",
-    "Vault/Spelljammer/Races/Genasi.md"
+    "Vault/Spelljammer/Races/Half-Elf.md"
   ]
 }
