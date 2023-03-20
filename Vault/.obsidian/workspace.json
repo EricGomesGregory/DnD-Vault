@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed3fa8fddef6034d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spelljammer/Equipment/Weapons/1-Uncommon/Firearms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -157,6 +169,8 @@
   },
   "active": "1e93268c5480caa5",
   "lastOpenFiles": [
+    "Spelljammer/Equipment/Weapons/1-Uncommon/Firearms.md",
+    "Spelljammer/Classes/Gunslinger.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
@@ -180,8 +194,6 @@
     "Spelljammer/Vehicles/Mechas/Ironclads/Masamune.md",
     "Spelljammer/Vehicles/Mechas/_Template.md",
     "Spelljammer/Classes/Channeler.md",
-    "_Templates/Creatures/_Base.md",
-    "Spelljammer/Creatures/Constructs/StoneGuardian.md",
-    "Spelljammer/Equipment/Weapons/2-Rare/Glaives.md"
+    "_Templates/Creatures/_Base.md"
   ]
 }

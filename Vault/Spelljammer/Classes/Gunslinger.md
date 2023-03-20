@@ -101,15 +101,9 @@ ___
 DESCRIPTION.
 
 #### Gunsmith
-Begging at 1st level, your tinkering nature has allowed you to create combustion weapons. You can craft one of the following firearms or ammunition during a long rest by spending its cost in gold.
+Begging at 1st level, your tinkering nature has allowed you to create combustion weapons. You can craft one of the following firearms or ammunition during a long rest by spending half its cost in gold.
 
-##### Powderkeg Firearms
-| Name        | Cost   | Damage        | Weight | Properties                                     |
-|:------------|:------:|:--------------|:------:|:-----------------------------------------------|
-| Pistol      | 000 gp | 1d10 Piercing | 00 lb. | Ammunition(range 000/000), light, loading      |
-| Blunderbuss | 000 gp | 2d6  Piercing | 00 lb. | Ammunition(range 000/000), loading, two-handed |
-| Musket      | 000 gp | 2d12 Piercing | 00 lb. | Ammunition(range 000/000), loading, two-handed |
-
+![[Firearms#Powderkeg Firearms]]
 
 #### Gritty Killer
 Starting at 3rd level, FLUFF. You regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM’s discretion).
@@ -131,12 +125,9 @@ ___
 DESCRIPTION.
 
 #### ARCANE_GUNSMITH
-Begging at 1st level, your tinkering nature has allowed you to create magical firearms weapons. You can craft one of the following firearms or ammunition during a long rest by spending its cost in gold.
+Begging at 1st level, your tinkering nature has allowed you to create magical firearms weapons. You can craft one of the following firearms or ammunition during a long rest by spending half its cost in gold.
 
-##### Spellslinger Firearms
-| Name  | Cost | Damage | Weight | Properties |
-|:------|:----:|:-------|:------:|:-----------|
-|
+![[Firearms#Spellslinger Firearms]]
 
 ### 3RD_LEVEL_FEATURE
 DESCRIPTION.

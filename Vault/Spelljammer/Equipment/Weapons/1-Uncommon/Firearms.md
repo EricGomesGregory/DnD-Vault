@@ -1,7 +1,14 @@
 
+##### Powderkeg Firearms
+| Name        | Cost   | Damage        | Weight | Properties                                     |
+|:------------|:------:|:--------------|:------:|:-----------------------------------------------|
+| Pistol      | 000 gp | 1d10 Piercing | 00 lb. | Ammunition(range 000/000), light, loading      |
+| Blunderbuss | 000 gp | 2d6  Piercing | 00 lb. | Ammunition(range 000/000), loading, two-handed |
+| Musket      | 000 gp | 2d12 Piercing | 00 lb. | Ammunition(range 000/000), loading, two-handed |
 
-| Name   | Cost   | Damage        | Weight | Range   | Properties                      |
-|:-------|:------:|:--------------|:------:|:-------:|:--------------------------------|
-| Pistol | 000 gp | 1d10 Piercing | 00 lb. |  30/90  | Ammunition, Loading             |
-| Musket | 000 gp | 1d12 Piercing | 00 lb. |  60/120 | Ammunition, Loading, Two-handed |
 
+
+##### Spellslinger Firearms
+| Name  | Cost | Damage | Weight | Properties |
+|:------|:----:|:-------|:------:|:-----------|
+| ARCANE_PISTOL | 000 gp | 1d4 Force | 00 lb. | Ammunition(range 000/000)| 
