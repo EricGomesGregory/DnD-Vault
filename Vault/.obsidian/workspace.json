@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b51a929603447919",
+        "id": "ddabef344dcce776",
         "type": "tabs",
         "children": [
           {
-            "id": "610e6b67fcf0c521",
+            "id": "1e93268c5480caa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
+                "file": "Spelljammer/Classes/Gunslinger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md"
+                "file": "Spelljammer/Classes/Gunslinger.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
+                "file": "Spelljammer/Classes/Gunslinger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
+                "file": "Spelljammer/Classes/Gunslinger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +155,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "610e6b67fcf0c521",
+  "active": "1e93268c5480caa5",
   "lastOpenFiles": [
+    "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Dzvezda.md",
@@ -181,7 +182,6 @@
     "Spelljammer/Classes/Channeler.md",
     "_Templates/Creatures/_Base.md",
     "Spelljammer/Creatures/Constructs/StoneGuardian.md",
-    "Spelljammer/Equipment/Weapons/2-Rare/Glaives.md",
-    "Spelljammer/Equipment/Weapons/1-Uncommon/Firearms.md"
+    "Spelljammer/Equipment/Weapons/2-Rare/Glaives.md"
   ]
 }
