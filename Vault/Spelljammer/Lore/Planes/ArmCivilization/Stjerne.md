@@ -6,11 +6,12 @@ tags:
 ---
 The Stjerne is a medium-sized star that is orbited by N rocky planets and M PLANET_TYPE...
 
-  
 
 # Jernver
-Jernver is a reddish world covered in deserts and mountains with few... The only habitable areas of the world are walled cities with green fields and a massive stone tower that rises beyond the sky.
+Jernver is a reddish world covered in deserts and mountains. The only habitable areas of the world are walled cities with green fields and a massive stone tower that rises beyond the sky.
 
+
+<hr>
 
 # Jordfjell
 The home world of the dwarves, Jordfjell is a small mountainous planet that is orbited by a large asteroid ring. In its current state it is a extremely populated world with city-states that reside within the various mountains of the planet.
