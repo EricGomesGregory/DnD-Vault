@@ -1,3 +1,4 @@
+
 ##### The Gunslinger
 | Level | Proficiency Bonus | Features    |  Grit Points |
 |:-----:|:--:|:-------------------------------------|:--:|
@@ -98,7 +99,11 @@ You have mastered all the tricks of your trade. At 20th level, choose one tricks
 
 
 ___
+<br>
+
 ## Gunslinger Subclasses
+DESCRIPTIONS.
+<br>
 
 ### Powderkeg
 DESCRIPTION.
@@ -130,6 +135,8 @@ The following are the descriptions of the trickshots available to the Powderkeg 
 ***EXTRA_GUNPOWDER.*** 
 
 ___
+<br>
+
 ### Spellslinger
 DESCRIPTION.
 
@@ -152,4 +159,13 @@ DESCRIPTION.
 
 #### 17TH_LEVEL_FEATURE
 DESCRIPTION.
+
+___
+##### Powderkeg Trickshot Options
+The following are the descriptions of the trickshots available to the Powderkeg Gunslinger subclass.
+
+***EXTRA_GUNPOWDER.*** 
+
+___
+<br>
 

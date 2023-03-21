@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "046616b31be71f3b",
+        "id": "5e4ef4ce9848ccbf",
         "type": "tabs",
         "children": [
           {
-            "id": "ddb32f21fbab614b",
+            "id": "852772b3a1917ecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,11 +135,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6144485e5641661d",
+  "floating": {
+    "id": "7ca4ff9284b081de",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c9440bb0c27530b3",
+        "type": "window",
+        "children": [
+          {
+            "id": "ad728e52c3035784",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ddb32f21fbab614b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vault/Spelljammer/Classes/Gunslinger.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 532,
+        "y": 39,
+        "width": 1276,
+        "height": 960,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "852772b3a1917ecd",
   "lastOpenFiles": [
+    "Vault/Spelljammer/Classes/Gunslinger.md",
+    "Vault/Spelljammer/Adventures/Test.md",
+    "Vault/Spelljammer/Equipment/Weapons/1-Uncommon/Firearms.md",
+    "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
     "Vault/Me",
     "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
@@ -171,9 +205,6 @@
     "Vault/Spelljammer/Races/Oozeon.md",
     "Vault/Spelljammer/Races/Myconid.md",
     "Vault/Spelljammer/Races/Kobold.md",
-    "Vault/Spelljammer/Races/Illithid.md",
-    "Vault/Spelljammer/Races/Human.md",
-    "Vault/Spelljammer/Races/Half-Orc.md",
-    "Vault/Spelljammer/Races/Half-Elf.md"
+    "Vault/Spelljammer/Races/Illithid.md"
   ]
 }

@@ -11,6 +11,6 @@
 
 
 ##### Spellslinger Firearms
-| Name  | Cost | Damage | Weight | Properties |
-|:------|:----:|:-------|:------:|:-----------|
-| ARCANE_PISTOL | 000 gp | 1d4 Force | 00 lb. | Ammunition(range 000/000)| 
+| Name          | Cost   | Damage    | Range  | Weight | Properties |
+|:--------------|:------:|:----------|:------:|:------:|:-----------|
+| ARCANE_PISTOL | 000 gp | 1d4 Force | 000/000| 00 lb. | Ammunition |
