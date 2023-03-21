@@ -63,8 +63,10 @@ Starting at 2nd level, fluff. You know a number of trickshots equal to your Char
 ***Trickshot save DC.*** = 8 + your proficiency bonus + your Dexterity or Charisma modifier (your choice)
 
 ___
-#### Trickshots
+##### Trickshot Options
 The following are the descriptions of the trickshots available to the Gunslinger, regardless of subclass.
+
+***Cauterize Wound.*** After making an attack with your firearm you can use the hot barrel to cauterize a wound of a creature within 5 feet of you, healing it by your trickshot dice.
 
 ***Pocket Sand.*** As a reaction, before a creature makes a melee weapon attack within 5 feet of you, you hurl sand into their eyes. The creature must make a Constitution saving throw, on a failed save it is Blinded until the begging of your next turn.
 
@@ -94,6 +96,7 @@ Beginning at 18th level, you are so evasive that attackers rarely gain the upper
 ### Signature Trick
 You have mastered all the tricks of your trade. At 20th level, choose one trickshot it becomes your signature trick and you can use it without spending any Grit Points.
 
+
 ___
 ## Gunslinger Subclasses
 
@@ -109,8 +112,8 @@ Begging at 1st level, your tinkering nature has allowed you to create combustion
 Starting at 3rd level, FLUFF. You regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM’s discretion).
 
 
-#### 9TH_LEVEL_FEATURE
-DESCRIPTION.
+#### EXPLOSION_EVADER
+Beginning at 9th level, FLUFF. You have advantage on Dexterity saving throws against area of effects that deal Fire damage.
 
 
 #### 13TH_LEVEL_FEATURE
@@ -119,6 +122,12 @@ DESCRIPTION.
 
 #### 17TH_LEVEL_FEATURE
 DESCRIPTION.
+
+___
+##### Powderkeg Trickshot Options
+The following are the descriptions of the trickshots available to the Powderkeg Gunslinger subclass.
+
+***EXTRA_GUNPOWDER.*** 
 
 ___
 ### Spellslinger
@@ -143,3 +152,4 @@ DESCRIPTION.
 
 #### 17TH_LEVEL_FEATURE
 DESCRIPTION.
+

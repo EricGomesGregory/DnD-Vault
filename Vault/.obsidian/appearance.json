@@ -1,5 +1,10 @@
 {
   "accentColor": "",
   "interfaceFontFamily": "Source Code Pro",
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 20
 }
