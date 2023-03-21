@@ -63,15 +63,12 @@ Starting at 2nd level, fluff. You know a number of trickshots equal to your Char
 
 ***Trickshot save DC.*** = 8 + your proficiency bonus + your Dexterity or Charisma modifier (your choice)
 
-___
 ##### Trickshot Options
 The following are the descriptions of the trickshots available to the Gunslinger, regardless of subclass.
 
 ***Cauterize Wound.*** After making an attack with your firearm you can use the hot barrel to cauterize a wound of a creature within 5 feet of you, healing it by your trickshot dice.
 
 ***Pocket Sand.*** As a reaction, before a creature makes a melee weapon attack within 5 feet of you, you hurl sand into their eyes. The creature must make a Constitution saving throw, on a failed save it is Blinded until the begging of your next turn.
-
-___
 
 
 ### Ability Score Increase
@@ -128,7 +125,6 @@ DESCRIPTION.
 #### 17TH_LEVEL_FEATURE
 DESCRIPTION.
 
-___
 ##### Powderkeg Trickshot Options
 The following are the descriptions of the trickshots available to the Powderkeg Gunslinger subclass.
 
@@ -160,7 +156,6 @@ DESCRIPTION.
 #### 17TH_LEVEL_FEATURE
 DESCRIPTION.
 
-___
 ##### Powderkeg Trickshot Options
 The following are the descriptions of the trickshots available to the Powderkeg Gunslinger subclass.
 

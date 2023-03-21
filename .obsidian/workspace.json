@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "ddb32f21fbab614b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Spelljammer/Classes/Gunslinger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Spelljammer/Classes/Gunslinger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Spelljammer/Classes/Gunslinger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vault/Spelljammer/Classes/Gunslinger.md"
+              }
             }
           }
         ],
@@ -139,44 +156,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "floating": {
-    "id": "7ca4ff9284b081de",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c9440bb0c27530b3",
-        "type": "window",
-        "children": [
-          {
-            "id": "ad728e52c3035784",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ddb32f21fbab614b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Vault/Spelljammer/Classes/Gunslinger.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 532,
-        "y": 39,
-        "width": 1276,
-        "height": 960,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "852772b3a1917ecd",
+  "active": "ddb32f21fbab614b",
   "lastOpenFiles": [
     "Vault/Spelljammer/Classes/Gunslinger.md",
     "Vault/Spelljammer/Adventures/Test.md",
