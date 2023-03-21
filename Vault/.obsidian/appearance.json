@@ -3,8 +3,9 @@
   "interfaceFontFamily": "Source Code Pro",
   "monospaceFontFamily": "Source Code Pro",
   "enabledCssSnippets": [
-    "snippet"
+    "ITS Alt Themes"
   ],
   "cssTheme": "ITS Theme",
-  "baseFontSize": 20
+  "baseFontSize": 16,
+  "theme": "system"
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c566880c7f11590",
+        "id": "2b1e76b35180f8c0",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf204ada85df816",
+            "id": "9d7168d8a44fc9f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Classes/Gunslinger.md",
+                "file": "Spelljammer/Adventures/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spelljammer/Classes/Gunslinger.md"
+                "file": "Spelljammer/Adventures/Test.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Classes/Gunslinger.md",
+                "file": "Spelljammer/Adventures/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Classes/Gunslinger.md",
+                "file": "Spelljammer/Adventures/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,11 +155,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3bf204ada85df816",
+  "active": "9d7168d8a44fc9f8",
   "lastOpenFiles": [
+    "Spelljammer/Creatures/Constructs/RunedServitors.md",
+    "Spelljammer/Adventures/Test.md",
     "Spelljammer/Equipment/Weapons/1-Uncommon/Firearms.md",
-    "Spelljammer/Equipment/Weapons/1-Uncommon/Axes.md",
+    "Spelljammer/Creatures/Constructs/StoneGuardian.md",
     "Spelljammer/Classes/Gunslinger.md",
+    "Spelljammer/Classes/Commander.md",
+    "Spelljammer/Equipment/Weapons/1-Uncommon/Axes.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
@@ -175,13 +179,9 @@
     "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
     "Spelljammer/Lore/Planes/Planes.md",
     "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
-    "Spelljammer/Creatures/Constructs/RunedServitors.md",
     "_Templates/Race.md",
     "_Templates/Creatures/_Experience.md",
     "Spelljammer/Vehicles/Mechas/Ironclads/Anubis.md",
-    "Spelljammer/Vehicles/Mechas/Ironclads/Masamune.md",
-    "Spelljammer/Vehicles/Mechas/_Template.md",
-    "Spelljammer/Classes/Channeler.md",
-    "_Templates/Creatures/_Base.md"
+    "Spelljammer/Vehicles/Mechas/Ironclads/Masamune.md"
   ]
 }
