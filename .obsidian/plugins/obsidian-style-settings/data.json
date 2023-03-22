@@ -19,6 +19,10 @@
   "ITS@@t-w": true,
   "ITS@@table-unwrap": false,
   "ITS@@org-em": false,
-  "ITS@@em-hd": true,
-  "ITS@@naked-em": false
+  "ITS@@em-hd": false,
+  "ITS@@naked-em": false,
+  "ITS@@dv-line": false,
+  "ITS@@dv-tbl-th": false,
+  "ITS@@dv-th-size": false,
+  "ITS@@hr-tog": true
 }

@@ -11,7 +11,7 @@
             "id": "852772b3a1917ecd",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Gunslinger.md",
+                "file": "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Gunslinger.md",
+                "file": "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Gunslinger.md",
+                "file": "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Spelljammer/Classes/Gunslinger.md"
+                "file": "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md"
               }
             }
           }
@@ -158,6 +158,13 @@
   },
   "active": "ddb32f21fbab614b",
   "lastOpenFiles": [
+    "Vault/Spelljammer/Vehicles/AstralShips/_Template.md",
+    "Vault/Spelljammer/Vehicles/AstralShips/Elf/Drow/Wasp.md",
+    "Vault/Spelljammer/Vehicles/AstralShips/Elf/Drow/Deathspider.md",
+    "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+    "README.md",
+    "Vault/Spelljammer/Equipment/Weapons/2-Rare/Glaives.md",
+    "Vault/Spelljammer/Equipment/Weapons/2-Rare/Bows.md",
     "Vault/Spelljammer/Classes/Gunslinger.md",
     "Vault/Spelljammer/Adventures/Test.md",
     "Vault/Spelljammer/Equipment/Weapons/1-Uncommon/Firearms.md",
@@ -165,13 +172,11 @@
     "Vault/Me",
     "Vault/Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
     "Vault/Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
-    "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
     "Vault/Spelljammer/Equipment/Weapons/1-Uncommon/MeleeWeapons.md",
     "Vault/_Templates/Creatures/_Base.md",
     "Vault/TowerBabel",
     "Vault/_Templates/Creatures/Base.md",
     "Vault/Spelljammer/Vehicles/Mechas/Drow-Cliodhna.md",
-    "README.md",
     "Vault/Spelljammer/Races/Orc.md",
     "Vault/_Templates/Race.md",
     "Vault/Spelljammer/Races/Viperion.md",
@@ -180,11 +185,6 @@
     "Vault/Spelljammer/Races/Aasimar.md",
     "Vault/Spelljammer/Races/Aarakocra.md",
     "Vault/Spelljammer/Races/Triton.md",
-    "Vault/Spelljammer/Races/Tiefling.md",
-    "Vault/Spelljammer/Races/Thri-Kreen.md",
-    "Vault/Spelljammer/Races/Oozeon.md",
-    "Vault/Spelljammer/Races/Myconid.md",
-    "Vault/Spelljammer/Races/Kobold.md",
-    "Vault/Spelljammer/Races/Illithid.md"
+    "Vault/Spelljammer/Races/Tiefling.md"
   ]
 }
