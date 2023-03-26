@@ -1,7 +1,7 @@
 
 
 ## Drider
-*Large fiend (), ALIGNMENT*
+*Large fiend (demon), chaotic evil*
 
 **Armor Class** 00
 **Hit Points** 000 (0d0 + 0)

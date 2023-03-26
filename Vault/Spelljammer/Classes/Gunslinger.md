@@ -50,7 +50,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Charisma modifier.
 
 ### Slinger Archetype
-Choose between Powderkeg, Spellslinger, DEVIL_GUNNER, and SUBCLASS_NAME.
+FLUFF. Choose between Powderkeg, Spellslinger, DEVIL_GUNNER, and SUBCLASS_NAME.
 
 ### Grit
 Starting at 2nd level, fluff. You have 2 grit points and gain more as you level up in this class, as shown on the Gunslinger Table. You can use a grit point to perform a trickshot, and you regain all expended grit points at the end of a short or long rest.
@@ -94,7 +94,7 @@ Beginning at 18th level, you are so evasive that attackers rarely gain the upper
 ### Signature Trick
 You have mastered all the tricks of your trade. At 20th level, choose one trickshot it becomes your signature trick and you can use it without spending any Grit Points.
 
-
+<br>
 ___
 <br>
 

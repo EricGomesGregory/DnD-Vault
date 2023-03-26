@@ -27,3 +27,17 @@
 ***MELEE.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 0 (1d0 + 0) TYPE damage.
 
 ***RANGED.*** *Ranged Weapon Attack:* +0 to hit, range 0/0 ft., one target. *Hit* 0 (0d0 + 0) TYPE damage.
+
+
+
+
+
+***Innate Spellcasting.*** The NAME's innate spellcasting ability is ABILITY (spell save DC 00, +0 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
+
+At will: *spell*
+
+3/day each: *spell*
+
+2/day each: *spell*
+
+1/day each: *spell*

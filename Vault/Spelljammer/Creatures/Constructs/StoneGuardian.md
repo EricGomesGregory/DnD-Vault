@@ -21,8 +21,7 @@
 **Level** 10 **PB** +0 (0 XP)
 
 ### Features
-***Immutable Form.***
-The Stone Guardian is immune to any spell or Effect that would alter its form.
+***Immutable Form.*** The Stone Guardian is immune to any spell or Effect that would alter its form.
  
 ***FEATURE.*** FEATURE DESCRIPTION
 

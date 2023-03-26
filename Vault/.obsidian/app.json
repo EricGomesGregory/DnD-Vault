@@ -6,7 +6,7 @@
   ],
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "autoConvertHtml": true,
   "legacyEditor": false
 }

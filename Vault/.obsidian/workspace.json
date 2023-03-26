@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1e76b35180f8c0",
+        "id": "817e334242d3fa13",
         "type": "tabs",
         "children": [
           {
-            "id": "9d7168d8a44fc9f8",
+            "id": "4b66eb2e744c53b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Adventures/Test.md",
+                "file": "_Templates/Creatures/_Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,9 +84,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spelljammer/Adventures/Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Adventures/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Adventures/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,14 +112,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "9b86c2c4ba717a3f",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
             }
           },
           {
@@ -136,12 +124,20 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "0ac8263f30697259",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 393.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -155,13 +151,28 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9d7168d8a44fc9f8",
+  "active": "a8451a59b2d6a985",
   "lastOpenFiles": [
-    "Spelljammer/Creatures/Constructs/RunedServitors.md",
-    "Spelljammer/Adventures/Test.md",
+    "Spelljammer/Creatures/Dragons/RedDragon.md",
+    "_Templates/Creatures/_Base.md",
+    "_Templates/Creatures/Base.md",
+    "Spelljammer/Creatures/Fiends/Devils/HellishLords/Typhus.md",
+    "Spelljammer/Creatures/Fiends/Devils/HellishLords/Slan.md",
+    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Yeenoghu.md",
+    "Spelljammer/Lore/Languages.md",
+    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
+    "Spelljammer/Creatures/Fiends/Demons/Drider.md",
+    "Spelljammer/Classes/Gunslinger.md",
     "Spelljammer/Equipment/Weapons/1-Uncommon/Firearms.md",
     "Spelljammer/Creatures/Constructs/StoneGuardian.md",
-    "Spelljammer/Classes/Gunslinger.md",
+    "Spelljammer/Creatures/Constructs/DwarvishConstructs/StatueGuardian.md",
+    "Spelljammer/Adventures/Dungeons/InvertedSpire.md",
+    "Spelljammer/Lore/Planes/Planes.md",
+    "_Templates/Creatures/_Experience.md",
+    "Spelljammer/Creatures/Constructs/DwarvishConstructs",
+    "Spelljammer/Adventures/Test.md",
+    "Spelljammer/Adventures/Dungeons",
+    "Spelljammer/Creatures/Constructs/RunedServitors.md",
     "Spelljammer/Classes/Commander.md",
     "Spelljammer/Equipment/Weapons/1-Uncommon/Axes.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
@@ -169,19 +180,6 @@
     "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
     "Spelljammer/Lore/Planes/ArmCivilization/Dzvezda.md",
     "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
-    "Spelljammer/Vehicles/AstralShips/Dragonborn/Hammerhead.md",
-    "Spelljammer/Vehicles/AstralShips/Dragonborn/Broadsword.md",
-    "Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
-    "Spelljammer/Equipment/Weapons/2-Rare/Bows.md",
-    "Spelljammer/Equipment/Weapons/2-Rare/Swords.md",
-    "Spelljammer/Equipment/Weapons/1-Uncommon/MeleeWeapons.md",
-    "Spelljammer/Lore/Planes/SylvanNebula/Ghrian.md",
-    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
-    "Spelljammer/Lore/Planes/Planes.md",
-    "Spelljammer/Lore/Planes/SylvanNebula/Dorchang.md",
-    "_Templates/Race.md",
-    "_Templates/Creatures/_Experience.md",
-    "Spelljammer/Vehicles/Mechas/Ironclads/Anubis.md",
-    "Spelljammer/Vehicles/Mechas/Ironclads/Masamune.md"
+    "Spelljammer/Vehicles/AstralShips/Dragonborn/Hammerhead.md"
   ]
 }
