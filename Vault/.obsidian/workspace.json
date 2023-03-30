@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
+                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
+                "file": "_Templates/Creatures/_Base.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +167,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "aa71441ff0a1fdb9",
+  "active": "e550b20e45118f23",
   "lastOpenFiles": [
     "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
+    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Yeenoghu.md",
     "_Templates/Creatures/_Base.md",
     "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
-    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Yeenoghu.md",
     "Spelljammer/Vehicles/AstralShips/Dragonborn/Hammerhead.md",
     "Spelljammer/Vehicles/AstralShips/Dragonborn/Broadsword.md",
     "Spelljammer/Equipment/Weapons/1-Uncommon/Swords.md",

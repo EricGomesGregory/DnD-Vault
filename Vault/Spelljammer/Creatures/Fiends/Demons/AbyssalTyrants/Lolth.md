@@ -58,15 +58,25 @@ The following are Lolth's personality, bonds, ideals, and flaws.
 
 **Saving Throws** Dex +18, Int +12, Wis +13, Cha +19 
 **Skills** Acrobatics +16, *Deception* +28,  
-**Damage Immunities** Psychic
-**Damage Resistances** NONE
+**Damage Immunities** Psychic,  Bludgeoning, Piercing, and Slashing damage from non-magical attacks.
+**Damage Resistances**  Bludgeoning, Piercing, and Slashing damage from magical attacks.
 **Condition Immunities** Charmed
 **Senses** SIGHT 120 ft., passive Perception 00
-**Languages** Abyssal
+**Languages** Abyssal, Drow
 **Level** 30 **PB** +9 (XP 00,000)
 
 ### Features
 ***Invigorating Lies.*** Whenever Lolth succeeds on a Charisma (Deception) check she gains 30 temporary hit points.
+
+***Innate Spellcasting.*** Lolth's innate spellcasting ability is Charisma (spell save DC 00, +0 to hit with spell attacks). It can innately cast the following spells, requiring no material components.
+
+At will: *spell*
+
+3/day each: *spell*
+
+2/day each: *mirage arcane, power word: pain*
+
+1/day each: *dominate monster, telepathy*
 
 ***FEATURE.*** FEATURE DESCRIPTION
 

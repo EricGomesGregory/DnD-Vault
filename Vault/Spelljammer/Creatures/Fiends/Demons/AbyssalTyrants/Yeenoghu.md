@@ -30,7 +30,7 @@ The following are Lolth's personality, bonds, ideals, and flaws.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+| 25 (+0) | 18 (+0) | 30 (+0) | 10 (+0) | 18 (+0) | 10 (+0) |
 
 **Saving Throws** NONE
 **Skills** NONE
@@ -39,7 +39,7 @@ The following are Lolth's personality, bonds, ideals, and flaws.
 **Condition Immunities** NONE
 **Senses** passive Perception 00
 **Languages** Abyssal
-**Level** 30 *PB* +10 (0000 XP)
+**Level** 30 *PB* +9 (0000 XP)
 
 ### Features
 ***FEATURE.*** FEATURE DESCRIPTION
