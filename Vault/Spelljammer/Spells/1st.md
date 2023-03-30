@@ -12,7 +12,11 @@ On your turn, you can use an action to maintain one of the  creature affected by
 
 If you break concentration at any point all creatures awaken immediately. 
 
----
+<br>
+
+___
+
+<br>
 
 #### Healing Aura
 *1st-level evocation*
@@ -26,7 +30,11 @@ You start emanating a waves of healing energy. On your turn, each creature withi
 
 **At Higher Levels.** When you use a spell slot of 2nd or 3rd level the die becomes a d6, when you use a 4th or 5th level slot the die becomes a d8, when you use a 6th or 7th level slot the die becomes a d10, and when you use a 8th or 9th level spell slot the die becomes a d12.
 
+<br>
+
 ___
+
+<br>
 
 #### SPELL
 *1st-level TYPE*
@@ -41,4 +49,8 @@ DESCRIPTION.
 
 ***At Higher Levels.*** When you use a 
 
----
+<br>
+
+___
+
+<br>

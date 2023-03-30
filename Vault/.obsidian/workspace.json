@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "817e334242d3fa13",
+        "id": "aee0f7971342c73d",
         "type": "tabs",
         "children": [
           {
-            "id": "4b66eb2e744c53b6",
+            "id": "e550b20e45118f23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Creatures/_Base.md",
+                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa71441ff0a1fdb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md"
+              }
             }
           },
           {
@@ -93,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,35 +168,38 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a8451a59b2d6a985",
+  "active": "aa71441ff0a1fdb9",
   "lastOpenFiles": [
-    "Spelljammer/Creatures/Dragons/RedDragon.md",
-    "_Templates/Creatures/_Base.md",
-    "_Templates/Creatures/Base.md",
-    "Spelljammer/Creatures/Fiends/Devils/HellishLords/Typhus.md",
-    "Spelljammer/Creatures/Fiends/Devils/HellishLords/Slan.md",
-    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Yeenoghu.md",
-    "Spelljammer/Lore/Languages.md",
     "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
-    "Spelljammer/Creatures/Fiends/Demons/Drider.md",
-    "Spelljammer/Classes/Gunslinger.md",
-    "Spelljammer/Equipment/Weapons/1-Uncommon/Firearms.md",
-    "Spelljammer/Creatures/Constructs/StoneGuardian.md",
-    "Spelljammer/Creatures/Constructs/DwarvishConstructs/StatueGuardian.md",
-    "Spelljammer/Adventures/Dungeons/InvertedSpire.md",
-    "Spelljammer/Lore/Planes/Planes.md",
-    "_Templates/Creatures/_Experience.md",
-    "Spelljammer/Creatures/Constructs/DwarvishConstructs",
-    "Spelljammer/Adventures/Test.md",
-    "Spelljammer/Adventures/Dungeons",
-    "Spelljammer/Creatures/Constructs/RunedServitors.md",
-    "Spelljammer/Classes/Commander.md",
-    "Spelljammer/Equipment/Weapons/1-Uncommon/Axes.md",
-    "Spelljammer/Lore/Planes/ArmCivilization/Stjerne.md",
-    "Spelljammer/Lore/Planes/ArmCivilization/Najma.md",
-    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Abyss.md",
-    "Spelljammer/Lore/Planes/ArmCivilization/Dzvezda.md",
+    "_Templates/Creatures/_Base.md",
+    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
+    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Yeenoghu.md",
+    "Spelljammer/Vehicles/AstralShips/Dragonborn/Hammerhead.md",
+    "Spelljammer/Vehicles/AstralShips/Dragonborn/Broadsword.md",
+    "Spelljammer/Equipment/Weapons/1-Uncommon/Swords.md",
+    "Spelljammer/Equipment/Weapons/1-Uncommon/0-MeleeWeapons.md",
+    "Spelljammer/Creatures/Fiends/Devils/1-GreaterDevils/Nukuwo.md",
+    "Spelljammer/Equipment/Weapons/1-Uncommon/Ammunition.md",
+    "Spelljammer/Equipment/Weapons/3-VeryRare/Ammunition.md",
+    "Spelljammer/Equipment/Ingredients/Fiendsih.md",
+    "Spelljammer/Equipment/Ingredients",
+    "Spelljammer/Creatures/Beasts/Dinosaurs/Tlaloc.md",
     "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
-    "Spelljammer/Vehicles/AstralShips/Dragonborn/Hammerhead.md"
+    "Spelljammer/Lore/Planes/Planes.md",
+    "Spelljammer/Equipment/Misc/ElementalStone.md",
+    "Spelljammer/Creatures/Fiends/Devils/1-GreaterDevils",
+    "Spelljammer/Equipment/Misc",
+    "Spelljammer/Adventures/Dungeons/InvertedSpire.md",
+    "Spelljammer/Spells/1st.md",
+    "Spelljammer/Spells/0th.md",
+    "Spelljammer/Classes/Gunslinger.md",
+    "Spelljammer/Classes/Channeler.md",
+    "Spelljammer/Creatures/Dragons/ObsidianDragon.md",
+    "Spelljammer/Creatures/Dragons/RedDragon.md",
+    "_Templates/Creatures/Base.md",
+    "Spelljammer/Creatures/Fiends/Devils/0-HellishLords/Typhus.md",
+    "Spelljammer/Creatures/Fiends/Devils/0-HellishLords/Slan.md",
+    "Spelljammer/Creatures/Constructs/DwarvishConstructs",
+    "Spelljammer/Adventures/Dungeons"
   ]
 }

@@ -1,9 +1,9 @@
 Yeenoghu, the ever hunger, is a gargantuan monster that resembles a ...
 
-## History
+### History
 
 
-## Character Traits
+### Character Traits
 The following are Lolth's personality, bonds, ideals, and flaws.
 
 ***Personality.***

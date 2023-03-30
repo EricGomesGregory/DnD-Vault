@@ -1,6 +1,6 @@
 DESCRIPTION.
 
-## History
+### History
 - Was a Aard
 	- Powerful sorcerer
 - Became ruler of a world
@@ -30,7 +30,7 @@ When she saw that her people was suffering, so as her last orders she sent her r
 
 <br>
 
-## Character Traits
+### Character Traits
 The following are Lolth's personality, bonds, ideals, and flaws.
 
 ***Personality.***
@@ -61,7 +61,7 @@ The following are Lolth's personality, bonds, ideals, and flaws.
 **Damage Immunities** Psychic
 **Damage Resistances** NONE
 **Condition Immunities** Charmed
-**Senses** passive Perception 00
+**Senses** SIGHT 120 ft., passive Perception 00
 **Languages** Abyssal
 **Level** 30 **PB** +9 (XP 00,000)
 

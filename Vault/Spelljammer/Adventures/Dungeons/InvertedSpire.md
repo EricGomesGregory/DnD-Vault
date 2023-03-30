@@ -87,7 +87,7 @@ On the room's ground there are painted circles and lines, in addition the floor 
 <br>
 
 ## Library
-
+The library is a large room with three rows of 
 ## Study
 
 ## Lounge

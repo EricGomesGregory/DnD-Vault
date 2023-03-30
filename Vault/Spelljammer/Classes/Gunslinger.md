@@ -66,7 +66,7 @@ Starting at 2nd level, fluff. You know a number of trickshots equal to your Char
 ##### Trickshot Options
 The following are the descriptions of the trickshots available to the Gunslinger, regardless of subclass.
 
-***Cauterize Wound.*** After making an attack with your firearm you can use the hot barrel to cauterize a wound of a creature within 5 feet of you, healing it by your trickshot dice.
+***Cauterize Wound.*** After making an attack with your firearm you can use the hot barrel to cauterize a wound of a creature within 5 feet of you, healing it by your trickshot dice + your Charisma modifier.
 
 ***Pocket Sand.*** As a reaction, before a creature makes a melee weapon attack within 5 feet of you, you hurl sand into their eyes. The creature must make a Constitution saving throw, on a failed save it is Blinded until the begging of your next turn.
 

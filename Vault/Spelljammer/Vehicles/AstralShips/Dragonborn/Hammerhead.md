@@ -1,4 +1,3 @@
-## Hammerhead
 The hammerhead is a stone ship with a...
 
 
