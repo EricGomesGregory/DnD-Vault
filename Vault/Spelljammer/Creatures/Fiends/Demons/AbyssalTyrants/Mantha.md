@@ -33,7 +33,7 @@ The following are Mantha's personality, bonds, ideals, and flaws.
 | 10 (+0) | 18 (+4) | 16 (+3) | 25 (+7) | 30 (+10) | 18 (+4) |
 
 **Saving Throws** Dex +13, Int +16, Wis +19, Cha +13
-**Skills** SKILL +0, *Intimidation* +22, Perception +19
+**Skills** SKILL +0, Deception +13, *Intimidation* +22, Perception +19
 **Damage Immunities** Psychic, Bludgeoning, Piercing, and Slashing damage from non-magical attacks.
 **Damage Resistances** Bludgeoning, Piercing, and Slashing damage from magical attacks.
 **Condition Immunities** Charmed, Frightened
@@ -56,7 +56,7 @@ At will: *fear, summon shadowspawn, scrying*
 
 
 ### Actions
-***Multiattack.*** Mantha makes either two MELEE attacks or two RANGED attacks.
+***Multiattack.*** Mantha makes either two claw attacks or two shadow bolt attacks.
 
 ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit* 0 (3d8 + 4) Slashing damage.
 

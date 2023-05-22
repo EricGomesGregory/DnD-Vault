@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5e4ef4ce9848ccbf",
+        "id": "b004472f344c487a",
         "type": "tabs",
         "children": [
           {
-            "id": "852772b3a1917ecd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ddb32f21fbab614b",
+            "id": "cd7fc1a0e18f3c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+                "file": "Vault/Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+                "file": "Vault/Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
+                "file": "Vault/Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md"
+                "file": "Vault/Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md"
               }
             }
           }
@@ -156,16 +147,22 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ddb32f21fbab614b",
+  "active": "cd7fc1a0e18f3c68",
   "lastOpenFiles": [
+    "Vault/Spelljammer/Classes/Hemomancer.md",
+    "Vault/_Templates/Classes/Martial.md",
+    "Vault/Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
+    "Vault/_Templates/Classes/Caster.md",
+    "Vault/Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
+    "Vault/Spelljammer/Creatures/Constructs/DwarvishConstructs/StatueGuardian.md",
+    "Vault/Spelljammer/Classes/Gunslinger.md",
+    "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
     "Vault/Spelljammer/Vehicles/AstralShips/_Template.md",
     "Vault/Spelljammer/Vehicles/AstralShips/Elf/Drow/Wasp.md",
     "Vault/Spelljammer/Vehicles/AstralShips/Elf/Drow/Deathspider.md",
-    "Vault/Spelljammer/Vehicles/AstralShips/Devil/Trident.md",
     "README.md",
     "Vault/Spelljammer/Equipment/Weapons/2-Rare/Glaives.md",
     "Vault/Spelljammer/Equipment/Weapons/2-Rare/Bows.md",
-    "Vault/Spelljammer/Classes/Gunslinger.md",
     "Vault/Spelljammer/Adventures/Test.md",
     "Vault/Spelljammer/Equipment/Weapons/1-Uncommon/Firearms.md",
     "Vault/Spelljammer/Equipment/Armor/Rare/1-Light.md",
@@ -179,12 +176,6 @@
     "Vault/Spelljammer/Vehicles/Mechas/Drow-Cliodhna.md",
     "Vault/Spelljammer/Races/Orc.md",
     "Vault/_Templates/Race.md",
-    "Vault/Spelljammer/Races/Viperion.md",
-    "Vault/Spelljammer/Races/Lizardfolk.md",
-    "Vault/Spelljammer/Races/Automaton.md",
-    "Vault/Spelljammer/Races/Aasimar.md",
-    "Vault/Spelljammer/Races/Aarakocra.md",
-    "Vault/Spelljammer/Races/Triton.md",
-    "Vault/Spelljammer/Races/Tiefling.md"
+    "Vault/Spelljammer/Races/Viperion.md"
   ]
 }

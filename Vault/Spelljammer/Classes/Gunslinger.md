@@ -1,3 +1,7 @@
+---
+tags:
+- class
+---
 
 ##### The Gunslinger
 | Level | Proficiency Bonus | Features    |  Grit Points |
