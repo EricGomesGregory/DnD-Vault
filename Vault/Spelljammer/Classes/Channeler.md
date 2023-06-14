@@ -46,19 +46,23 @@ You start with the following equipment, in addition to the equipment granted by 
 - ITEMS
 
 ### Channeled Spirit
-Starting at 1st level, FLUFF.  You have the ability to conjure a spirit that is an extension of your will, choose between [OPTION_1](Channeler#OPTION_1), [OPTION_2](Channeler#OPTION_2), or [OPTION_3](Channeler#OPTION_3). Your channeled spirit choice grants you features at 3rd level and then again at 5th, 10th, 14th, and 20th level.
+Starting at 1st level, you have awakened the ability to manifest your will in the form of a spirit. Choose between [OPTION_1](Channeler#OPTION_1), [OPTION_2](Channeler#OPTION_2), or [OPTION_3](Channeler#OPTION_3). Your channeled spirit choice grants you features at 3rd level and then again at 5th, 10th, 14th, and 20th level.
+
+You can use a bonus action to conjure your chosen spirit on a unoccupied space within 5 feet of you, you can use a bonus action to dismiss it. Whenever your channeled spirit is hit by an attack you take half of the damage...
 
 
 ### Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
 
-While you have you are channeling your spirit you have +2 to your AC. Starting at 9th level, this bonus increases to a +5.
-
 
 ### Focused Will
+Starting at 2nd level, FLUFF.  This wellspring is represented by focus points, which allow you to activate powerful abilities of your channeled spirit.
+
+***Focus Points.*** You have 2 focus points, and you gain more as you reach higher levels, as shown in the Focus Points column of the Channeler table. You can never have more focus points than shown on the table for your level. You regain all spent focus points when you finish a long rest.
 
 
 ### Channeling Boon
+At 3rd level, FLUFF. You gain one of the following features of your choice.
 
 
 ### Ability Score Increase
@@ -66,7 +70,7 @@ When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, yo
 
 
 ### Refocus
-Starting at 6th level, FLUFF. You can use an action to recover a number of  Focus points equal to your Wisdom modifier. Once you use this feature you can't use it again until you finish a short or long rest.
+Starting at 6th level, FLUFF. You can use an action to recover a number of  focus points equal to your Wisdom modifier (minimum of 1). Once you use this feature you can't use it again until you finish a short or long rest.
 
 
 ### Evasion
@@ -87,8 +91,11 @@ DESCRIPTION.
 ### ORA_ORA_ORA
 DESCRIPTION.
 
-#### 1ST_LEVEL_FEATURE
+#### PREFIX Pugilist
 DESCRIPTION.
+
+![[ORA_ORA_ORA#prefix Pugilist]]
+
 
 #### Spirit Extra Attack
 Starting at 5th level, your channeled spirit can attack twice, instead of once, whenever it take the Attack action on your turn.

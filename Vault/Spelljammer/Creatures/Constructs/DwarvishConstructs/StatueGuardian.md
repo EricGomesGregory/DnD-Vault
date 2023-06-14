@@ -1,3 +1,7 @@
+---
+tags:
+- creature
+---
 
 # Arcane Guardian 
 Arcane Guardians are small stone statues that depict robed dwarves with blue gemstones for eyes. They are usually employed as guards of libraries, ETC, etc. 

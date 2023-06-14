@@ -1,12 +1,13 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "Cambria Math",
-  "monospaceFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
   "enabledCssSnippets": [
     "ITS Alt Themes",
     "snippet"
   ],
   "cssTheme": "ITS Theme",
   "baseFontSize": 15,
-  "theme": "system"
+  "theme": "system",
+  "textFontFamily": "B612 Mono"
 }

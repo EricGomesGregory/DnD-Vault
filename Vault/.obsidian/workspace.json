@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aee0f7971342c73d",
+        "id": "1bbf2a6933ada50f",
         "type": "tabs",
         "children": [
           {
-            "id": "e550b20e45118f23",
+            "id": "a2d8450a71fcf2b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa71441ff0a1fdb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/Creatures/_Base.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -76,12 +60,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "712b02f79f57e646",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 265.5
   },
   "right": {
     "id": "8940aaab77dcbc3f",
@@ -96,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,8 +136,17 @@
               "type": "mermaid-toolbar-view",
               "state": {}
             }
+          },
+          {
+            "id": "879a7779be20265b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,41 +161,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e550b20e45118f23",
+  "active": "a8451a59b2d6a985",
   "lastOpenFiles": [
-    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Lolth.md",
-    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Yeenoghu.md",
+    "Duniya/Creatures/Plants",
+    "Duniya/Creatures/Fiends",
+    "Duniya/Creatures/Fey",
+    "Duniya/Creatures/Humanoids",
     "_Templates/Creatures/_Base.md",
-    "Spelljammer/Creatures/Fiends/Demons/AbyssalTyrants/Mantha.md",
-    "Spelljammer/Vehicles/AstralShips/Dragonborn/Hammerhead.md",
-    "Spelljammer/Vehicles/AstralShips/Dragonborn/Broadsword.md",
-    "Spelljammer/Equipment/Weapons/1-Uncommon/Swords.md",
-    "Spelljammer/Equipment/Weapons/1-Uncommon/0-MeleeWeapons.md",
-    "Spelljammer/Creatures/Fiends/Devils/1-GreaterDevils/Nukuwo.md",
-    "Spelljammer/Equipment/Weapons/1-Uncommon/Ammunition.md",
-    "Spelljammer/Equipment/Weapons/3-VeryRare/Ammunition.md",
-    "Spelljammer/Equipment/Ingredients/Fiendsih.md",
-    "Spelljammer/Equipment/Ingredients",
-    "Spelljammer/Creatures/Beasts/Dinosaurs/Tlaloc.md",
-    "Spelljammer/Lore/Planes/NEGATIVE_REGION/Nyrc.md",
-    "Spelljammer/Lore/Planes/Planes.md",
-    "Spelljammer/Equipment/Misc/ElementalStone.md",
-    "Spelljammer/Creatures/Fiends/Devils/1-GreaterDevils",
-    "Spelljammer/Equipment/Misc",
-    "Spelljammer/Adventures/Dungeons/InvertedSpire.md",
-    "Spelljammer/Spells/1st.md",
-    "Spelljammer/Spells/0th.md",
-    "Spelljammer/Classes/Gunslinger.md",
-    "Spelljammer/Classes/Channeler.md",
-    "Spelljammer/Creatures/Dragons/ObsidianDragon.md",
-    "Spelljammer/Creatures/Dragons/RedDragon.md",
-    "_Templates/Creatures/Base.md",
-    "Spelljammer/Creatures/Fiends/Devils/0-HellishLords/Typhus.md",
-    "Spelljammer/Creatures/Fiends/Devils/0-HellishLords/Slan.md",
-    "Spelljammer/Creatures/Constructs/DwarvishConstructs",
-    "Spelljammer/Adventures/Dungeons"
+    "Duniya/Creatures/Dragons/Dragon Turtle.md",
+    "Duniya/REFERENCES.md",
+    "Duniya/Creatures/Dragons",
+    "Duniya/Creatures/Undead/GHOST_SKULLS.md",
+    "Duniya/Equipment/Weapons/Common.md",
+    "Duniya/Equipment/Consumables/Potions.md",
+    "Duniya/Duniya.md",
+    "Duniya/Equipment/Consumables/Potions/Common.md",
+    "Duniya/Equipment/Consumables/Potions",
+    "Duniya/Equipment/Consumables/Potions",
+    "Duniya/Equipment/Consumables",
+    "Duniya/Spells/Level 2.md",
+    "Duniya/Equipment/Armor",
+    "Duniya/Equipment/Weapons",
+    "_Templates/Spells.md",
+    "Duniya/Lore/Geography",
+    "Duniya/Races/Human.md",
+    "Duniya/Races/Kitsune.md",
+    "Duniya/Spells/Level 9.md",
+    "Duniya/Spells/Level 8.md",
+    "Duniya/Spells/Level 7.md",
+    "Duniya/Spells/Level 6.md",
+    "Duniya/Spells/Level 5.md",
+    "Duniya/Spells/Level 4.md",
+    "Duniya/Spells/Level 3.md",
+    "Duniya/Spells/Level 1.md",
+    "Duniya/Spells/Cantrips.md",
+    "_Modules/ELEMENTAL_DND/Creatures/Elementals/Bosses/STONE_BIRD.md",
+    "_Modules/ELEMENTAL_DND/Creatures/Plants/CAVE_GROVE_BOSS.md",
+    "_Modules/ELEMENTAL_DND/Dungeons/CAVE_GROVE.md",
+    "_Modules/ELEMENTAL_DND/Dungeons/Dungeons.md"
   ]
 }

@@ -1,3 +1,8 @@
+---
+tags:
+- creature
+---
+
 Slan, The Mother of Lust, is the hellish lord of the ...
 
 

@@ -1,3 +1,8 @@
+---
+tags:
+- creature
+---
+
 The runed servitors are constructs of varying shapes and sizes that were created by an ancient civilization that is long gone.
 
 This constructs can be found on tombs, ruins, and dungeons that once belonged to their long gone masters...

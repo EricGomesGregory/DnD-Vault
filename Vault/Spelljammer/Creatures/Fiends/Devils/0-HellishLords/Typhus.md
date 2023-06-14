@@ -1,3 +1,8 @@
+---
+tags:
+- creature
+---
+
 Typhus, The Blightlord, is a hellish lord of ...
 
 ### Character Traits

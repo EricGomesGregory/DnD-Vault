@@ -5,13 +5,25 @@
 ```mermaid
 flowchart LR
 
-Sylvan --- Nadurin
+Abyssal ---- Gnoll
+Abyssal ---- Drow
+
+Sylvan ---- Nadurin
 Sylvan --- Aardin
 
 Aardin --- Drow
 
-Abyssal ---- Gnoll
-Abyssal ---- Drow
+Celestial ---- AASIMAR
+Celestial ---- Auran
+
+Primordial ---- Auran
+Primordial ---- Aquan
+Primordial ---- Ignan
+Primordial ---- Terran
+Primordial --- Sphinx
+
+Infernal --- SLAN_LANGUAGE
+Infernal --- TYPHUS_LANGUAGE
 
 ```
 

@@ -1,3 +1,8 @@
+---
+tags:
+- creature
+---
+
 Tlaloc is a huge awakened spinosaurus with light brown scales...
 
 He resides in a riverside temple where a tribe of lizardfolk reviers him as a god.

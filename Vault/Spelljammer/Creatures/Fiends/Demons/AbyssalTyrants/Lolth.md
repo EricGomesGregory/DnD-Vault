@@ -1,3 +1,8 @@
+---
+tags:
+- creature
+---
+
 DESCRIPTION.
 
 ### History
@@ -18,7 +23,7 @@ DESCRIPTION.
 - While she guided her people she began to take control of sections of the abyss and creating Mākurā, her own world, becoming a abyssal tyrant
 - She eventually created the driders
 
-Before Lolth was a abyssal tyrant, before se was even called Lolth, she was an aard woman known as AART_NAME. She was a colonist on the world of WORLD_NAME from a powerful noble house from [Stuaghach](Ghrian#Stuaghach), as her years passed as a colonist she grew her influence with her quick wits and vorpal words, eventually rewarding her with the position of regent of WORLD_NAME.
+Before Lolth was a abyssal tyrant, before se was even called Lolth, she was an aard woman known as AART_NAME. She was a colonist on the world of WORLD_NAME from a powerful noble house from [Stuaghach](Ghrian.md#Stuaghach), as her years passed as a colonist she grew her influence with her quick wits and vorpal words, eventually rewarding her with the position of regent of WORLD_NAME.
 
 AART_NAME ruled the colonies of WORLD_NAME for many decades with little to no issues and elevating the relatively jovial colony into a emerging power in the aard political sphere. This actions angered some of the regents of the other colonies...
 

@@ -1,14 +1,9 @@
----
-tags:
-- creature
----
 
-The nukuwo, or sight devils, are huge humanoid shaped creatures with CRESCENT_SHAPED_FACE with six eyes on a ring formation.
+![500](https://static.wikia.nocookie.net/yokai/images/3/32/Me-kurabe.jpg/revision/latest/scale-to-width-down/1000?cb=20161221165632)
 
 
-
-## Nukuwo
-*Huge fiend (devil), lawful evil*
+## NAME
+*Large crowd of  TYPE, ALIGNMENT*
 
 **Armor Class** 00
 **Hit Points** 000 (0d0 + 0)
@@ -23,7 +18,7 @@ The nukuwo, or sight devils, are huge humanoid shaped creatures with CRESCENT_SH
 **Damage Immunities** NONE
 **Damage Resistances** NONE
 **Condition Immunities** NONE
-**Senses** Truesight 120 ft.,  passive Perception 00
+**Senses** passive Perception 00
 **Languages** LANGUAGE
 **Level** 00 *PB* +0 (0 XP)
 
@@ -33,5 +28,4 @@ The nukuwo, or sight devils, are huge humanoid shaped creatures with CRESCENT_SH
 ### Actions
 ***MELEE.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit* 0 (1d0 + 0) TYPE damage.
 
-***Longbow.*** *Ranged Weapon Attack:* automatic hit, range 0/0 ft., one target. *Hit* 0 (0d0 + 0) TYPE damage.
-
+***RANGED.*** *Ranged Weapon Attack:* +0 to hit, range 0/0 ft., one target. *Hit* 0 (0d0 + 0) TYPE damage.

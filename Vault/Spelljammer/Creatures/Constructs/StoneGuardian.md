@@ -1,3 +1,7 @@
+---
+tags:
+- creature
+---
 
 
 ## Stone Guardian

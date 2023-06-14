@@ -41,3 +41,16 @@ At will: *spell*
 2/day each: *spell*
 
 1/day each: *spell*
+
+
+
+***Legendary Resistance (3/Day).***
+If NAME fails a saving throw, it can choose to succeed instead. 
+
+
+### Legendary Actions
+NAME can take 0 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. NAME regains spent legendary actions at the start of their turn.
+
+***ACTION.*** ACTION DESCRIPTION.
+
+***ACTION (Costs 0 Actions).*** ACTION DESCRIPTION.
