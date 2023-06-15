@@ -11,6 +11,9 @@ The CONTINENT is subdivided into the following sub-regions:
 ### CHINA
  
 ##  Peng' Kepulauan
+The Peng' Kepulauan, or barrier archipelago in the native tongue, is a large archipelago located in the south east...
+
+**Reference Language:** Indonesian
 
 ## JP_ARCHIPELAGO
 ## KOREA_ISLAND
