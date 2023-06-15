@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "05134f3d38a02696",
+        "id": "1bbf2a6933ada50f",
         "type": "tabs",
         "children": [
           {
-            "id": "7b04b80059d1946c",
+            "id": "a2d8450a71fcf2b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Duniya/Lore/Maps/World Map.md",
+                "file": "Duniya/Lore/Geography/Geography.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d004d96f03e71380",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
             }
           }
         ]
@@ -93,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Duniya/Lore/Maps/World Map.md"
+                "file": "Duniya/Lore/Geography/Geography.md"
               }
             }
           },
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Duniya/Lore/Maps/World Map.md",
+                "file": "Duniya/Lore/Geography/Geography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Duniya/Lore/Maps/World Map.md",
+                "file": "Duniya/Lore/Geography/Geography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,36 +174,32 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "7b04b80059d1946c",
+  "active": "a2d8450a71fcf2b9",
   "lastOpenFiles": [
+    "Duniya/Lore/Geography/Geography.md",
     "Duniya/Lore/Maps/World Map.md",
-    "Note.md",
-    "Duniya/Duniya.md",
-    "Duniya/Lore/Maps",
-    "Duniya/Lore",
-    "Duniya/Untitled.md",
-    "Duniya/REFERENCES.md",
-    "Duniya/Spells/Cantrips.md",
-    "z_Attachments",
+    "Duniya/Lore/Geography/Peng' Kepulauan",
+    "Duniya/Lore/Geography/KOREA_ISLAND",
+    "Duniya/Lore/Geography/CONTINENT/MONGOLIA",
+    "Duniya/Lore/Geography/CONTINENT/CHINA",
+    "Duniya/Lore/Geography/CONTINENT/INDIA",
+    "Duniya/Lore/Geography/CONTINENT/MIDDLE_EAST",
+    "Duniya/Lore/Geography/JP_ARCHIPELAGO",
+    "Duniya/Lore/Geography/CONTINENT",
+    "Duniya/Races/Human.md",
     "z_Attachments/maps/world.jpg",
-    "Duniya/Creatures/Undead/GHOST_SKULLS.md",
     "z_Attachments/maps",
-    "Duniya/_assets/Nova pasta",
-    "Duniya/_assets/world.jpg",
-    "Duniya/_assets/EasternFantasy-WorldMap.jpg",
-    "Duniya/Untitled 1",
-    "Duniya/_assets",
-    "Duniya/Creatures/Plants",
-    "Duniya/Creatures/Fiends",
-    "Duniya/Creatures/Fey",
+    "z_Attachments",
     "_Templates/Creatures/_Base.md",
     "Duniya/Creatures/Dragons/Dragon Turtle.md",
+    "Duniya/REFERENCES.md",
+    "Duniya/Creatures/Undead/GHOST_SKULLS.md",
     "Duniya/Equipment/Weapons/Common.md",
     "Duniya/Equipment/Consumables/Potions.md",
+    "Duniya/Duniya.md",
     "Duniya/Equipment/Consumables/Potions/Common.md",
     "Duniya/Spells/Level 2.md",
     "_Templates/Spells.md",
-    "Duniya/Races/Human.md",
     "Duniya/Races/Kitsune.md",
     "Duniya/Spells/Level 9.md",
     "Duniya/Spells/Level 8.md",
@@ -205,7 +209,9 @@
     "Duniya/Spells/Level 4.md",
     "Duniya/Spells/Level 3.md",
     "Duniya/Spells/Level 1.md",
+    "Duniya/Spells/Cantrips.md",
     "_Modules/ELEMENTAL_DND/Creatures/Elementals/Bosses/STONE_BIRD.md",
-    "_Modules/ELEMENTAL_DND/Creatures/Plants/CAVE_GROVE_BOSS.md"
+    "_Modules/ELEMENTAL_DND/Creatures/Plants/CAVE_GROVE_BOSS.md",
+    "_Modules/ELEMENTAL_DND/Dungeons/CAVE_GROVE.md"
   ]
 }
