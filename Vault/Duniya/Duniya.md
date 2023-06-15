@@ -1,10 +1,10 @@
 Duniya is a Dungeons and Dragons 5th edition setting with a eastern fantasy focus. In it the player characters, and some non-player characters, have been brought back from the brink of death by a strange patron that has marked them on the back of their left or right hand with a sigil and placed them within a old and dilapidated, but still functional, ship.
 
 
-
 # Races
 The following are the playable races of the setting:
 - [[Duniya/Races/Human|Human]]
+
 
 # Setting Specific Rules
 The following are rules inherent to the setting.

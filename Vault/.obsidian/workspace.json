@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1bbf2a6933ada50f",
+        "id": "05134f3d38a02696",
         "type": "tabs",
         "children": [
           {
-            "id": "a2d8450a71fcf2b9",
+            "id": "7b04b80059d1946c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Duniya/Lore/Maps/World Map.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Duniya/Lore/Maps/World Map.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Duniya/Lore/Maps/World Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Duniya/Lore/Maps/World Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,14 +138,6 @@
             }
           },
           {
-            "id": "0ac8263f30697259",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "879a7779be20265b",
             "type": "leaf",
             "state": {
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,33 +161,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a8451a59b2d6a985",
+  "active": "7b04b80059d1946c",
   "lastOpenFiles": [
+    "Duniya/Lore/Maps/World Map.md",
+    "Note.md",
+    "Duniya/Duniya.md",
+    "Duniya/Lore/Maps",
+    "Duniya/Lore",
+    "Duniya/Untitled.md",
+    "Duniya/REFERENCES.md",
+    "Duniya/Spells/Cantrips.md",
+    "z_Attachments",
+    "z_Attachments/maps/world.jpg",
+    "Duniya/Creatures/Undead/GHOST_SKULLS.md",
+    "z_Attachments/maps",
+    "Duniya/_assets/Nova pasta",
+    "Duniya/_assets/world.jpg",
+    "Duniya/_assets/EasternFantasy-WorldMap.jpg",
+    "Duniya/Untitled 1",
+    "Duniya/_assets",
     "Duniya/Creatures/Plants",
     "Duniya/Creatures/Fiends",
     "Duniya/Creatures/Fey",
-    "Duniya/Creatures/Humanoids",
     "_Templates/Creatures/_Base.md",
     "Duniya/Creatures/Dragons/Dragon Turtle.md",
-    "Duniya/REFERENCES.md",
-    "Duniya/Creatures/Dragons",
-    "Duniya/Creatures/Undead/GHOST_SKULLS.md",
     "Duniya/Equipment/Weapons/Common.md",
     "Duniya/Equipment/Consumables/Potions.md",
-    "Duniya/Duniya.md",
     "Duniya/Equipment/Consumables/Potions/Common.md",
-    "Duniya/Equipment/Consumables/Potions",
-    "Duniya/Equipment/Consumables/Potions",
-    "Duniya/Equipment/Consumables",
     "Duniya/Spells/Level 2.md",
-    "Duniya/Equipment/Armor",
-    "Duniya/Equipment/Weapons",
     "_Templates/Spells.md",
-    "Duniya/Lore/Geography",
     "Duniya/Races/Human.md",
     "Duniya/Races/Kitsune.md",
     "Duniya/Spells/Level 9.md",
@@ -198,10 +205,7 @@
     "Duniya/Spells/Level 4.md",
     "Duniya/Spells/Level 3.md",
     "Duniya/Spells/Level 1.md",
-    "Duniya/Spells/Cantrips.md",
     "_Modules/ELEMENTAL_DND/Creatures/Elementals/Bosses/STONE_BIRD.md",
-    "_Modules/ELEMENTAL_DND/Creatures/Plants/CAVE_GROVE_BOSS.md",
-    "_Modules/ELEMENTAL_DND/Dungeons/CAVE_GROVE.md",
-    "_Modules/ELEMENTAL_DND/Dungeons/Dungeons.md"
+    "_Modules/ELEMENTAL_DND/Creatures/Plants/CAVE_GROVE_BOSS.md"
   ]
 }
