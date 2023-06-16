@@ -20,14 +20,19 @@
             }
           },
           {
-            "id": "d004d96f03e71380",
+            "id": "117e7329b278a585",
             "type": "leaf",
             "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Duniya/Lore/Maps/World Map.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "8940aaab77dcbc3f",
@@ -101,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Duniya/Lore/Geography/Geography.md"
+                "file": "Duniya/Lore/Maps/World Map.md"
               }
             }
           },
@@ -111,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Duniya/Lore/Geography/Geography.md",
+                "file": "Duniya/Lore/Maps/World Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Duniya/Lore/Geography/Geography.md",
+                "file": "Duniya/Lore/Maps/World Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a2d8450a71fcf2b9",
+  "active": "117e7329b278a585",
   "lastOpenFiles": [
     "Duniya/Lore/Geography/Geography.md",
     "Duniya/Lore/Maps/World Map.md",

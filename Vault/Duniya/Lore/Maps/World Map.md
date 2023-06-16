@@ -7,7 +7,7 @@ tags:
 ```leaflet
 id: world
 image: [[world.jpg]]
-height: 600px
+height: 60%
 width: 100%
 lat: 50%
 long: 50%

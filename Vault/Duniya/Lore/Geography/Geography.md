@@ -5,9 +5,14 @@ CONTINENT_DESCRIPTION.
 
 The CONTINENT is subdivided into the following sub-regions:
 
-### MIDDLE_EAST
-### MONGOLIA
-### INDIA
+### DEVIL'S_HORN Anapat  
+The land to the west
+
+### MONGOLIAAN_STEPS
+The land to the 
+
+### INDIAN_PENINSULA
+The peninsula to the east of DEVIL'S_HORN 
 ### CHINA
  
 ##  Peng' Kepulauan
