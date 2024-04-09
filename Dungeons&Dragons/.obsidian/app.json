@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "autoConvertHtml": true,
+  "legacyEditor": false
+}

@@ -1,0 +1,552 @@
+{
+  "mapMarkers": [
+    {
+      "id": "world-map",
+      "lastAccessed": 1686784666832,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polygon",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -2.8681640625,
+              "lng": -3.6927967176843115,
+              "id": "ID_4bcac9db8b6b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8681640625,
+              "lng": -3.5638486014127952,
+              "id": "ID_fa08b8da4bd9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.9052734375,
+              "lng": -3.5482185267132174,
+              "id": "ID_193aaadb2969",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8896484375,
+              "lng": -3.4642068752029864,
+              "id": "ID_08fa5b9bda7a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.9189453125,
+              "lng": -3.3684726676680725,
+              "id": "ID_0a1ac9594bdb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8681640625,
+              "lng": -3.3333049995940227,
+              "id": "ID_5bc8497a6939",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8623046875,
+              "lng": -3.2961835721825254,
+              "id": "ID_c9f9bb0b6ae8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8310546875,
+              "lng": -3.270784700795711,
+              "id": "ID_8948ab4bd8eb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8642578125,
+              "lng": -3.180911771273137,
+              "id": "ID_7acb3a687a78",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8212890625,
+              "lng": -3.153559140548876,
+              "id": "ID_088bcb6a0b49",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.7841796875,
+              "lng": -3.1750504932607955,
+              "id": "ID_eb5adb2b5a88",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.7333984375,
+              "lng": -3.1476978625365346,
+              "id": "ID_aaebdbc8abe9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.7275390625,
+              "lng": -3.0910388417505645,
+              "id": "ID_98e9fb1afa9b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.6787109375,
+              "lng": -3.0597786923514088,
+              "id": "ID_bb999baa4b4b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.6396484375,
+              "lng": -3.100807638437801,
+              "id": "ID_19d9cab9fafb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.5595703125,
+              "lng": -3.1066689164501424,
+              "id": "ID_0899dbd9086b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.5419921875,
+              "lng": -3.0793162857258816,
+              "id": "ID_6b4ae9e8d918",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.5087890625,
+              "lng": -3.0832238044007765,
+              "id": "ID_1b69f8c8a8bb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.5185546875,
+              "lng": -3.0187497462650166,
+              "id": "ID_ebd9392a0ba8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.4599609375,
+              "lng": -2.979674559516071,
+              "id": "ID_097b0aa81949",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.4423828125,
+              "lng": -2.9015241860181833,
+              "id": "ID_9acb98cb187a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.4111328125,
+              "lng": -2.8780790739688156,
+              "id": "ID_889bb9d82908",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.4208984375,
+              "lng": -2.8214200531828437,
+              "id": "ID_0b4bf828f8b8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.3994140625,
+              "lng": -2.7803911070964533,
+              "id": "ID_bb093b3abaf8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.3193359375,
+              "lng": -2.7530384763721907,
+              "id": "ID_6bdaaaf8bb4a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.2490234375,
+              "lng": -2.713963289623247,
+              "id": "ID_9929cbbb5aab",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.2021484375,
+              "lng": -2.629951638113016,
+              "id": "ID_983869bb7a59",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.1337890625,
+              "lng": -2.602599007388755,
+              "id": "ID_aa6839abd999",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.1279296875,
+              "lng": -2.6612117875121717,
+              "id": "ID_5b7ba8cb2828",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.1650390625,
+              "lng": -2.805789978483266,
+              "id": "ID_6adb1bf89a38",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.2158203125,
+              "lng": -2.8507264432445547,
+              "id": "ID_0a7ae9c8dbd8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.1884765625,
+              "lng": -2.9425531321045755,
+              "id": "ID_c98bb838bb0b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.2216796875,
+              "lng": -3.007027190240332,
+              "id": "ID_487b9a699bc8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.2177734375,
+              "lng": -3.0421948583143843,
+              "id": "ID_a85b7a78cba8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.2255859375,
+              "lng": -3.13597530651185,
+              "id": "ID_49d96b89f818",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.1884765625,
+              "lng": -3.13597530651185,
+              "id": "ID_3b6adac92868",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.1376953125,
+              "lng": -3.1144839537999305,
+              "id": "ID_bbab7b0a5a9b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.1357421875,
+              "lng": -3.188726808622927,
+              "id": "ID_2b694b39abea",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.4287109375,
+              "lng": -3.4212241697791477,
+              "id": "ID_dbcb085afa18",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.4384765625,
+              "lng": -3.5286809333387446,
+              "id": "ID_38c91a1af889",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.4462890625,
+              "lng": -3.618553862861317,
+              "id": "ID_a848aa0b3878",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.5380859375,
+              "lng": -3.6498140122604728,
+              "id": "ID_58aac9caea78",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.5810546875,
+              "lng": -3.690842958346864,
+              "id": "ID_089b191b0b98",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.40234375,
+              "lng": -4.627698471500485,
+              "id": "ID_3979ea386b7b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.6650390625,
+              "lng": -3.7650858131698595,
+              "id": "ID_4a89f8880819",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.7021484375,
+              "lng": -3.718195589071126,
+              "id": "ID_d9482b082a89",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.7470703125,
+              "lng": -3.718195589071126,
+              "id": "ID_8b692b6bdbb9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.7822265625,
+              "lng": -3.6654440869600506,
+              "id": "ID_58b81ad9eb58",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.7978515625,
+              "lng": -3.638091456235789,
+              "id": "ID_d8eb48c988fa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8291015625,
+              "lng": -3.6576290496102617,
+              "id": "ID_b83b8869a808",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        "Duniya/Duniya.md"
+      ]
+    },
+    {
+      "id": "world",
+      "lastAccessed": 1686867365036,
+      "markers": [
+        {
+          "id": "ID_5868688afaba",
+          "type": "default",
+          "loc": [
+            117.5,
+            232.3895745371874
+          ],
+          "layer": "%5B%5Bworld.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b99eb383b7a",
+          "type": "default",
+          "loc": [
+            563,
+            1023.3918480025982
+          ],
+          "layer": "%5B%5Bworld.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a7b8a3bca48",
+          "type": "default",
+          "loc": [
+            687.5,
+            1023.8725235466059
+          ],
+          "layer": "%5B%5Bworld.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Duniya/Lore/Maps/World Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.1",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 7,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "600px",
+    "image": "[[world.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[world.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "world-map",
+    "unit": "imperial",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}
