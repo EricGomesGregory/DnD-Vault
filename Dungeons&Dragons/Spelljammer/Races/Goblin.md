@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Goblin Traits
 Your Goblin characters have the following traits.

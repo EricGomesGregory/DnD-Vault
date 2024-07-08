@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Dwarf Traits
 Your Dwarf characters have the following traits.

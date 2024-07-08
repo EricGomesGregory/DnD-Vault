@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Human Traits
 Your Human characters have the following traits.

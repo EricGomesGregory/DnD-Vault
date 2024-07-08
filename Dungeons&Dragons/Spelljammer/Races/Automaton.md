@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Automaton Traits
 Your Automaton characters have the following traits.

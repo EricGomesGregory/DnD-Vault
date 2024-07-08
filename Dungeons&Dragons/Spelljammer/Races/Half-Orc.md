@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Half-Orc Traits
 Your Half-Orc characters have the following traits.

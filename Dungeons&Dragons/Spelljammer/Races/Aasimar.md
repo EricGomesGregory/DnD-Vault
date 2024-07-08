@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION
 
 ### Aasimar Traits
 Your Aasimar characters have the following traits.

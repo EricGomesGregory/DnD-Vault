@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Genasi Traits
 Your Genasi characters have the following traits.

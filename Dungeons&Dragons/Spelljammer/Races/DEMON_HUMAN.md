@@ -1,3 +1,9 @@
+---
+tags:
+  - Race
+---
+
+DESCRIPTION.
 
 ### DEMON_HUMAN Traits
 Your DEMON_HUMAN characters have the following traits.
