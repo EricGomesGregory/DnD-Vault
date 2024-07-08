@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Tiefling Traits
 Your Tiefling characters have the following traits.

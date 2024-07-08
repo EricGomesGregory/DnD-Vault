@@ -1,3 +1,10 @@
+---
+tags:
+  - Equipment
+  - Armor
+aliases:
+  - Heavy Armor
+---
 
 
 #### Horse-plate Armor

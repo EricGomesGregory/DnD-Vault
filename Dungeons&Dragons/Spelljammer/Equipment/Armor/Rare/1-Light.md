@@ -1,3 +1,10 @@
+---
+tags:
+  - Equipment
+  - Armor
+aliases:
+  - Light Armor
+---
 
 
 

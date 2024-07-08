@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Lizardfolk Traits
 Your Lizardfolk characters have the following traits.

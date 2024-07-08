@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Myconid Traits
 Your Myconid characters have the following traits.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Illithid Traits
 Your Illithid characters have the following traits.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Oozeon Traits
 Your Oozeon characters have the following traits.

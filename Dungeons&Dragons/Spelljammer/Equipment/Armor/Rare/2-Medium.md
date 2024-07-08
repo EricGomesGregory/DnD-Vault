@@ -1,3 +1,10 @@
+---
+tags:
+  - Equipment
+  - Armor
+aliases:
+  - Medium Armor
+---
 
 
 #### Dragon Hide Armor
@@ -6,6 +13,7 @@
 A set of sleeved hide armor composed of the hide of a young dragon.
 
 ***Draconic Resistance.*** While wearing this armor you have resistance to a damage type corresponding to the dragon that originated the armor, as shown by the table below:
+
 | Chromatic Dragon | Damage    | Metallic Dragon | Damage    |
 |:-----------------|:---------:|:----------------|:---------:|
 | Black            | Acid      | Brass           | Fire      |

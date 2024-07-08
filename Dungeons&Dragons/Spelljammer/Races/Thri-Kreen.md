@@ -1,3 +1,8 @@
+---
+tags:
+  - Race
+---
+DESCRIPTION.
 
 ### Thri-Kreen Traits
 Your Thri-Kreen characters have the following traits.
