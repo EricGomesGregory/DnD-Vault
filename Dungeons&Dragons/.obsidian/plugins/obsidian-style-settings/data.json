@@ -10,7 +10,11 @@
   "ITS@@sphd-und-5": true,
   "ITS@@sphd-und-6": true,
   "ITS@@em-hd": true,
-  "ITS@@t-c": false,
+  "ITS@@t-c": true,
   "ITS@@tbl-b": false,
-  "ITS@@t-w": true
+  "ITS@@t-w": true,
+  "ITS@@writing-document": false,
+  "ITS@@justified": false,
+  "ITS@@imgctr": true,
+  "ITS@@dis-tri-quote": true
 }
