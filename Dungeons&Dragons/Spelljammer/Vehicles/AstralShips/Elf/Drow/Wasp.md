@@ -14,35 +14,29 @@ A creature can spend a 2nd level spell slot to power the ship for one day.
 **Travel Pace** 0 miles per hour (0 miles per day)
 **Level** 1 (Proficiency Bonus +2)
 
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|  8 (-1) | 20 (+5) | 15 (+2) |    0    |    0    |    0    |
+|  STR   |   DEX   |   CON   | INT | WIS | CHA |
+| :----: | :-----: | :-----: | :-: | :-: | :-: |
+| 8 (-1) | 20 (+5) | 15 (+2) |  0  |  0  |  0  |
 
 **Damage Immunities** Poison, Psychic
 **Condition Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Stunned, Unconscious
-
 ### Hull
 **Armor Class** 18
 **Hit Points** 100 (5 Damage threshold)
 
 ***Innate Spellcasting.*** The wasp can innately cast the following spells, requiring no material components.
-
 2/day each: *invisibility (self)*
-
 ### Control: Cocpit
 **Armor Class** 15
 **Hit Points** 50
 
 ***Control.*** While using the cockpit you can make the Wasp move up to the speed of its MOVEMENT, with one 90-degree turn. If the cockpit is destroyed, the wasp can't turn.
-
 ### Movement: Arcane Engine
 **Armor Class** 15
 **Hit Points** 60; -20 ft. per 10 damage taken
 **Speed** 120 ft., DESTRUCTION CONDITION
-
 ### Weapons: Poison Cannon (2)
 **Armor Class** 15
 **Hit Points** 50
-
 #### Actions
 ***Poison Blast.*** *Ranged Weapon Attack:* +7 to hit, range 120/480 ft., one target. *Hit* 10 (1d10 + 5) Poison damage.
